@@ -59,6 +59,8 @@ function generateHeader(): string {
 >
 > 精选的 Google Nano Banana Pro 创意提示词集合
 
+> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
+
 ---
 
 `;

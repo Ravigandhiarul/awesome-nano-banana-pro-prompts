@@ -10,6 +10,15 @@ body:
 
         Thank you for contributing! Please fill in the details below.
 
+        ### ⚠️ Important Notice
+
+        All prompts in this repository are collected from the community and shared for educational purposes. If you believe any content infringes on your copyright or intellectual property rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
+
+        By submitting this prompt, you confirm that:
+        - You have the right to share this content
+        - You agree to license it under CC BY 4.0
+        - You properly attribute the original author
+
   - type: input
     id: title
     attributes:
@@ -37,12 +46,15 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: image_url
+  - type: textarea
+    id: image_urls
     attributes:
-      label: Generated Image URL
-      description: Link to the image (Imgur, Twitter, etc.)
-      placeholder: "https://..."
+      label: Generated Image URLs
+      description: One URL per line (supports multiple images)
+      placeholder: |
+        https://example.com/image1.jpg
+        https://example.com/image2.jpg
+        https://example.com/image3.jpg
     validations:
       required: true
 
@@ -78,12 +90,27 @@ body:
       description: What language is the prompt in?
       options:
         - English
-        - Chinese
-        - Japanese
-        - Spanish
-        - French
-        - German
-        - Other
+        - Chinese (中文)
+        - Japanese (日本語)
+        - Korean (한국어)
+        - Spanish (Español)
+        - French (Français)
+        - German (Deutsch)
+        - Italian (Italiano)
+        - Portuguese (Português)
+        - Russian (Русский)
+        - Arabic (العربية)
+        - Hindi (हिन्दी)
+        - Thai (ไทย)
+        - Vietnamese (Tiếng Việt)
+        - Indonesian (Bahasa Indonesia)
+        - Turkish (Türkçe)
+        - Polish (Polski)
+        - Dutch (Nederlands)
+        - Swedish (Svenska)
+        - Norwegian (Norsk)
+        - Danish (Dansk)
+        - Finnish (Suomi)
     validations:
       required: true
 

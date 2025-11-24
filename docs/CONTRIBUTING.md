@@ -37,18 +37,23 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 - **Title**: Clear, descriptive (max 80 characters)
 - **Prompt**: The full prompt text
 - **Description**: What it does, when to use it
-- **Image**: High-quality result (min 512px width)
+- **Images**: One or multiple high-quality results (one URL per line)
 - **Author**: Original creator's name and link
 - **Source**: Link to original post/tweet
-- **Language**: Prompt's language
+- **Language**: Prompt's language (supports 20+ languages)
 
 ### Image Requirements
 
+- ✅ **Multiple images supported**: Add one URL per line
 - ✅ Minimum width: 512px
 - ✅ Recommended: 1024px - 2048px
 - ✅ Formats: JPEG, PNG, WebP
-- ✅ File size: < 5MB
+- ✅ File size: < 5MB per image
 - ✅ No watermarks (except original author's)
+
+### Supported Languages
+
+English, Chinese, Japanese, Korean, Spanish, French, German, Italian, Portuguese, Russian, Arabic, Hindi, Thai, Vietnamese, Indonesian, Turkish, Polish, Dutch, Swedish, Norwegian, Danish, Finnish
 
 ### Quality Standards
 

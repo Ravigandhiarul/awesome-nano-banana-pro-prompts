@@ -9,11 +9,41 @@ interface IssueFields {
   prompt_title?: string;
   prompt?: string;
   description?: string;
-  image_url?: string;
+  image_urls?: string;
   author_name?: string;
   author_link?: string;
   source_link?: string;
   language?: string;
+}
+
+// 语言名称到语言代码的映射
+const LANGUAGE_MAP: Record<string, string> = {
+  'English': 'en',
+  'Chinese (中文)': 'zh',
+  'Japanese (日本語)': 'ja',
+  'Korean (한국어)': 'ko',
+  'Spanish (Español)': 'es',
+  'French (Français)': 'fr',
+  'German (Deutsch)': 'de',
+  'Italian (Italiano)': 'it',
+  'Portuguese (Português)': 'pt',
+  'Russian (Русский)': 'ru',
+  'Arabic (العربية)': 'ar',
+  'Hindi (हिन्दी)': 'hi',
+  'Thai (ไทย)': 'th',
+  'Vietnamese (Tiếng Việt)': 'vi',
+  'Indonesian (Bahasa Indonesia)': 'id',
+  'Turkish (Türkçe)': 'tr',
+  'Polish (Polski)': 'pl',
+  'Dutch (Nederlands)': 'nl',
+  'Swedish (Svenska)': 'sv',
+  'Norwegian (Norsk)': 'no',
+  'Danish (Dansk)': 'da',
+  'Finnish (Suomi)': 'fi',
+};
+
+function parseLanguage(languageName: string): string {
+  return LANGUAGE_MAP[languageName] || 'en';
 }
 
 async function parseIssue(issueBody: string): Promise<IssueFields> {
@@ -55,8 +85,23 @@ async function main() {
 
     const fields = await parseIssue(issueBody);
 
-    console.log('📸 Uploading image to CMS...');
-    const imageUrl = await uploadImageToCMS(fields.image_url || '');
+    // 解析多张图片 URL（每行一个）
+    const imageUrls = (fields.image_urls || '')
+      .split('\n')
+      .map(url => url.trim())
+      .filter(url => url.length > 0);
+
+    console.log(`📸 Uploading ${imageUrls.length} image(s) to CMS...`);
+    const uploadedImages = await Promise.all(
+      imageUrls.map(url => uploadImageToCMS(url))
+    );
+
+    // 获取 Issue 创建时间
+    const issue = await octokit.issues.get({
+      owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
+      repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
+      issue_number: parseInt(issueNumber),
+    });
 
     console.log('📝 Creating prompt in CMS (no draft)...');
     const prompt = await createPrompt({
@@ -64,13 +109,13 @@ async function main() {
       content: fields.prompt || '',
       description: fields.description || '',
       sourceLink: fields.source_link || '',
-      sourceMedia: [imageUrl],
+      sourceMedia: uploadedImages,
       author: {
         name: fields.author_name || '',
         link: fields.author_link || '',
       },
-      language: fields.language?.toLowerCase() || 'en',
-      sourcePublishedAt: new Date().toISOString(),
+      language: parseLanguage(fields.language || 'English'),
+      sourcePublishedAt: issue.data.created_at,
       sourceMeta: {
         github_issue: issueNumber,
       },
