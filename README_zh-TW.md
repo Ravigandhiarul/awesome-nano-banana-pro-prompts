@@ -88,9 +88,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **622** |
-| ⭐ 精選 | **12** |
-| 🔄 最後更新 | **2025年12月5日 星期五 清晨5:02:46 [UTC]** |
+| 📝 提示詞總數 | **628** |
+| ⭐ 精選 | **14** |
+| 🔄 最後更新 | **2025年12月5日 星期五 上午8:16:02 [UTC]** |
 
 </div>
 
@@ -324,7 +324,54 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 6: 倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝
+### No. 6: 根據參考圖片拍攝奢華簡約產品照
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一個用於生成高端、極簡主義商業產品攝影的提示，風格仿照奢侈品牌廣告，並以上傳的核心產品參考圖片為基礎。
+
+#### 📝 提示詞
+
+```
+請以我上傳的參考圖片為基礎，生成一張極簡、高品質的商業靜物攝影作品，風格應如同奢華品牌廣告。
+
+請保留參考圖片中核心產品的整體形狀、比例和主要配色，使其能立即被辨識為同一產品，但要提升圖像的整體質感和氛圍，使其看起來像是頂級國際香水、護膚品或高階電子產品的廣告。
+
+構圖請採用垂直的 4:5 比例。背景應為大面積的簡潔、中性留白，例如柔和的米白、冷灰或淺米色，營造出寧靜、內斂且昂貴的攝影棚環境。除了核心產品和少量必要的支撐物外，請勿添加任何額外裝飾。不要雜亂，不要複雜的場景佈置——僅保留非常簡單的幾何支撐物（例如一個素色白色立方體、一個圓柱體或一塊薄透明板）。支撐物必須簡潔低調，僅為承托和凸顯產品而存在。
+
+強烈強調產品的材質細節，並讓燈光完全服務於這些材質：
+呈現帶有細膩柔和霧面質感的磨砂玻璃、帶有霧面或輕微釉面感的陶瓷，以及帶有清晰銳利高光的拋光金屬。液體應具有清晰可見的黏度和體積。避免任何廉價的塑膠感、複雜的圖案或俗氣的貼紙；整體材質品質必須感覺清冷、內斂且奢華。
+
+使用專業攝影棚燈光：主要採用柔光箱發出的柔和漫射光，輔以精確的輪廓光勾勒產品形狀。輪廓應清晰有層次，陰影應柔和乾淨，沒有雜訊或髒亂的陰影斑塊。您可以使用近距離微距視角，更靠近產品以突顯材質和細節，同時在畫面周圍保留充足的留白，讓產品在空曠中「不言自明」。
+
+整體配色方案保持中性、平靜。產品本身的顏色可以稍微飽和一些，使其成為場景中唯一的視覺焦點。請勿使用誇張的漸變背景、華麗的彩色燈光或電商促銷美學。不要出現大尺寸的價格文字、標籤或卡通圖案。
+
+最終成果必須是一張高解析度的商業主視覺，看起來就像準備好登上雜誌封底或高階品牌發佈海報：極簡、寧靜、高檔，核心產品自信地居中，周圍環繞著簡潔的留白和精確控制的燈光。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="根據參考圖片拍攝奢華簡約產品照 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1996273073725780161)
+- **發布時間:** 2025年12月3日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E4%BB%A5%E6%88%91%E4%B8%8A%E5%82%B3%E7%9A%84%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E7%82%BA%E5%9F%BA%E7%A4%8E%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E6%A5%B5%E7%B0%A1%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E5%95%86%E6%A5%AD%E9%9D%9C%E7%89%A9%E6%94%9D%E5%BD%B1%E4%BD%9C%E5%93%81%EF%BC%8C%E9%A2%A8%E6%A0%BC%E6%87%89%E5%A6%82%E5%90%8C%E5%A5%A2%E8%8F%AF%E5%93%81%E7%89%8C%E5%BB%A3%E5%91%8A%E3%80%82%0A%0A%E8%AB%8B%E4%BF%9D%E7%95%99%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E6%A0%B8%E5%BF%83%E7%94%A2%E5%93%81%E7%9A%84%E6%95%B4%E9%AB%94%E5%BD%A2%E7%8B%80%E3%80%81%E6%AF%94%E4%BE%8B%E5%92%8C%E4%B8%BB%E8%A6%81%E9%85%8D%E8%89%B2%EF%BC%8C%E4%BD%BF%E5%85%B6%E8%83%BD%E7%AB%8B%E5%8D%B3%E8%A2%AB%E8%BE%A8%E8%AD%98%E7%82%BA%E5%90%8C%E4%B8%80%E7%94%A2%E5%93%81%EF%BC%8C%E4%BD%86%E8%A6%81%E6%8F%90%E5%8D%87%E5%9C%96%E5%83%8F%E7%9A%84%E6%95%B4%E9%AB%94%E8%B3%AA%E6%84%9F%E5%92%8C%E6%B0%9B%E5%9C%8D%EF%BC%8C%E4%BD%BF%E5%85%B6%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E6%98%AF%E9%A0%82%E7%B4%9A%E5%9C%8B%E9%9A%9B%E9%A6%99%E6%B0%B4%E3%80%81%E8%AD%B7%E8%86%9A%E5%93%81%E6%88%96%E9%AB%98%E9%9A%8E%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81%E7%9A%84%E5%BB%A3%E5%91%8A%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E8%AB%8B%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%E7%9A%84%204%3A5%20%E6%AF%94%E4%BE%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%87%89%E7%82%BA%E5%A4%A7%E9%9D%A2%E7%A9%8D%E7%9A%84%E7%B0%A1%E6%BD%94%E3%80%81%E4%B8%AD%E6%80%A7%E7%95%99%E7%99%BD%EF%BC%8C%E4%BE%8B%E5%A6%82%E6%9F%94%E5%92%8C%E7%9A%84%E7%B1%B3%E7%99%BD%E3%80%81%E5%86%B7%E7%81%B0%E6%88%96%E6%B7%BA%E7%B1%B3%E8%89%B2%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E5%AF%A7%E9%9D%9C%E3%80%81%E5%85%A7%E6%96%82%E4%B8%94%E6%98%82%E8%B2%B4%E7%9A%84%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%92%B0%E5%A2%83%E3%80%82%E9%99%A4%E4%BA%86%E6%A0%B8%E5%BF%83%E7%94%A2%E5%93%81%E5%92%8C%E5%B0%91%E9%87%8F%E5%BF%85%E8%A6%81%E7%9A%84%E6%94%AF%E6%92%90%E7%89%A9%E5%A4%96%EF%BC%8C%E8%AB%8B%E5%8B%BF%E6%B7%BB%E5%8A%A0%E4%BB%BB%E4%BD%95%E9%A1%8D%E5%A4%96%E8%A3%9D%E9%A3%BE%E3%80%82%E4%B8%8D%E8%A6%81%E9%9B%9C%E4%BA%82%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%A4%87%E9%9B%9C%E7%9A%84%E5%A0%B4%E6%99%AF%E4%BD%88%E7%BD%AE%E2%80%94%E2%80%94%E5%83%85%E4%BF%9D%E7%95%99%E9%9D%9E%E5%B8%B8%E7%B0%A1%E5%96%AE%E7%9A%84%E5%B9%BE%E4%BD%95%E6%94%AF%E6%92%90%E7%89%A9%EF%BC%88%E4%BE%8B%E5%A6%82%E4%B8%80%E5%80%8B%E7%B4%A0%E8%89%B2%E7%99%BD%E8%89%B2%E7%AB%8B%E6%96%B9%E9%AB%94%E3%80%81%E4%B8%80%E5%80%8B%E5%9C%93%E6%9F%B1%E9%AB%94%E6%88%96%E4%B8%80%E5%A1%8A%E8%96%84%E9%80%8F%E6%98%8E%E6%9D%BF%EF%BC%89%E3%80%82%E6%94%AF%E6%92%90%E7%89%A9%E5%BF%85%E9%A0%88%E7%B0%A1%E6%BD%94%E4%BD%8E%E8%AA%BF%EF%BC%8C%E5%83%85%E7%82%BA%E6%89%BF%E6%89%98%E5%92%8C%E5%87%B8%E9%A1%AF%E7%94%A2%E5%93%81%E8%80%8C%E5%AD%98%E5%9C%A8%E3%80%82%0A%0A%E5%BC%B7%E7%83%88%E5%BC%B7%E8%AA%BF%E7%94%A2%E5%93%81%E7%9A%84%E6%9D%90%E8%B3%AA%E7%B4%B0%E7%AF%80%EF%BC%8C%E4%B8%A6%E8%AE%93%E7%87%88%E5%85%89%E5%AE%8C%E5%85%A8%E6%9C%8D%E5%8B%99%E6%96%BC%E9%80%99%E4%BA%9B%E6%9D%90%E8%B3%AA%EF%BC%9A%0A%E5%91%88%E7%8F%BE%E5%B8%B6%E6%9C%89%E7%B4%B0%E8%86%A9%E6%9F%94%E5%92%8C%E9%9C%A7%E9%9D%A2%E8%B3%AA%E6%84%9F%E7%9A%84%E7%A3%A8%E7%A0%82%E7%8E%BB%E7%92%83%E3%80%81%E5%B8%B6%E6%9C%89%E9%9C%A7%E9%9D%A2%E6%88%96%E8%BC%95%E5%BE%AE%E9%87%89%E9%9D%A2%E6%84%9F%E7%9A%84%E9%99%B6%E7%93%B7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%B8%B6%E6%9C%89%E6%B8%85%E6%99%B0%E9%8A%B3%E5%88%A9%E9%AB%98%E5%85%89%E7%9A%84%E6%8B%8B%E5%85%89%E9%87%91%E5%B1%AC%E3%80%82%E6%B6%B2%E9%AB%94%E6%87%89%E5%85%B7%E6%9C%89%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E7%9A%84%E9%BB%8F%E5%BA%A6%E5%92%8C%E9%AB%94%E7%A9%8D%E3%80%82%E9%81%BF%E5%85%8D%E4%BB%BB%E4%BD%95%E5%BB%89%E5%83%B9%E7%9A%84%E5%A1%91%E8%86%A0%E6%84%9F%E3%80%81%E8%A4%87%E9%9B%9C%E7%9A%84%E5%9C%96%E6%A1%88%E6%88%96%E4%BF%97%E6%B0%A3%E7%9A%84%E8%B2%BC%E7%B4%99%EF%BC%9B%E6%95%B4%E9%AB%94%E6%9D%90%E8%B3%AA%E5%93%81%E8%B3%AA%E5%BF%85%E9%A0%88%E6%84%9F%E8%A6%BA%E6%B8%85%E5%86%B7%E3%80%81%E5%85%A7%E6%96%82%E4%B8%94%E5%A5%A2%E8%8F%AF%E3%80%82%0A%0A%E4%BD%BF%E7%94%A8%E5%B0%88%E6%A5%AD%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%EF%BC%9A%E4%B8%BB%E8%A6%81%E6%8E%A1%E7%94%A8%E6%9F%94%E5%85%89%E7%AE%B1%E7%99%BC%E5%87%BA%E7%9A%84%E6%9F%94%E5%92%8C%E6%BC%AB%E5%B0%84%E5%85%89%EF%BC%8C%E8%BC%94%E4%BB%A5%E7%B2%BE%E7%A2%BA%E7%9A%84%E8%BC%AA%E5%BB%93%E5%85%89%E5%8B%BE%E5%8B%92%E7%94%A2%E5%93%81%E5%BD%A2%E7%8B%80%E3%80%82%E8%BC%AA%E5%BB%93%E6%87%89%E6%B8%85%E6%99%B0%E6%9C%89%E5%B1%A4%E6%AC%A1%EF%BC%8C%E9%99%B0%E5%BD%B1%E6%87%89%E6%9F%94%E5%92%8C%E4%B9%BE%E6%B7%A8%EF%BC%8C%E6%B2%92%E6%9C%89%E9%9B%9C%E8%A8%8A%E6%88%96%E9%AB%92%E4%BA%82%E7%9A%84%E9%99%B0%E5%BD%B1%E6%96%91%E5%A1%8A%E3%80%82%E6%82%A8%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E8%BF%91%E8%B7%9D%E9%9B%A2%E5%BE%AE%E8%B7%9D%E8%A6%96%E8%A7%92%EF%BC%8C%E6%9B%B4%E9%9D%A0%E8%BF%91%E7%94%A2%E5%93%81%E4%BB%A5%E7%AA%81%E9%A1%AF%E6%9D%90%E8%B3%AA%E5%92%8C%E7%B4%B0%E7%AF%80%EF%BC%8C%E5%90%8C%E6%99%82%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%91%A8%E5%9C%8D%E4%BF%9D%E7%95%99%E5%85%85%E8%B6%B3%E7%9A%84%E7%95%99%E7%99%BD%EF%BC%8C%E8%AE%93%E7%94%A2%E5%93%81%E5%9C%A8%E7%A9%BA%E6%9B%A0%E4%B8%AD%E3%80%8C%E4%B8%8D%E8%A8%80%E8%87%AA%E6%98%8E%E3%80%8D%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88%E4%BF%9D%E6%8C%81%E4%B8%AD%E6%80%A7%E3%80%81%E5%B9%B3%E9%9D%9C%E3%80%82%E7%94%A2%E5%93%81%E6%9C%AC%E8%BA%AB%E7%9A%84%E9%A1%8F%E8%89%B2%E5%8F%AF%E4%BB%A5%E7%A8%8D%E5%BE%AE%E9%A3%BD%E5%92%8C%E4%B8%80%E4%BA%9B%EF%BC%8C%E4%BD%BF%E5%85%B6%E6%88%90%E7%82%BA%E5%A0%B4%E6%99%AF%E4%B8%AD%E5%94%AF%E4%B8%80%E7%9A%84%E8%A6%96%E8%A6%BA%E7%84%A6%E9%BB%9E%E3%80%82%E8%AB%8B%E5%8B%BF%E4%BD%BF%E7%94%A8%E8%AA%87%E5%BC%B5%E7%9A%84%E6%BC%B8%E8%AE%8A%E8%83%8C%E6%99%AF%E3%80%81%E8%8F%AF%E9%BA%97%E7%9A%84%E5%BD%A9%E8%89%B2%E7%87%88%E5%85%89%E6%88%96%E9%9B%BB%E5%95%86%E4%BF%83%E9%8A%B7%E7%BE%8E%E5%AD%B8%E3%80%82%E4%B8%8D%E8%A6%81%E5%87%BA%E7%8F%BE%E5%A4%A7%E5%B0%BA%E5%AF%B8%E7%9A%84%E5%83%B9%E6%A0%BC%E6%96%87%E5%AD%97%E3%80%81%E6%A8%99%E7%B1%A4%E6%88%96%E5%8D%A1%E9%80%9A%E5%9C%96%E6%A1%88%E3%80%82%0A%0A%E6%9C%80%E7%B5%82%E6%88%90%E6%9E%9C%E5%BF%85%E9%A0%88%E6%98%AF%E4%B8%80%E5%BC%B5%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E7%9A%84%E5%95%86%E6%A5%AD%E4%B8%BB%E8%A6%96%E8%A6%BA%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%B0%B1%E5%83%8F%E6%BA%96%E5%82%99%E5%A5%BD%E7%99%BB%E4%B8%8A%E9%9B%9C%E8%AA%8C%E5%B0%81%E5%BA%95%E6%88%96%E9%AB%98%E9%9A%8E%E5%93%81%E7%89%8C%E7%99%BC%E4%BD%88%E6%B5%B7%E5%A0%B1%EF%BC%9A%E6%A5%B5%E7%B0%A1%E3%80%81%E5%AF%A7%E9%9D%9C%E3%80%81%E9%AB%98%E6%AA%94%EF%BC%8C%E6%A0%B8%E5%BF%83%E7%94%A2%E5%93%81%E8%87%AA%E4%BF%A1%E5%9C%B0%E5%B1%85%E4%B8%AD%EF%BC%8C%E5%91%A8%E5%9C%8D%E7%92%B0%E7%B9%9E%E8%91%97%E7%B0%A1%E6%BD%94%E7%9A%84%E7%95%99%E7%99%BD%E5%92%8C%E7%B2%BE%E7%A2%BA%E6%8E%A7%E5%88%B6%E7%9A%84%E7%87%88%E5%85%89%E3%80%82)**
+
+---
+
+### No. 7: 倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -365,7 +412,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 7: 夢想日記：卡比吹泡泡
+### No. 8: 夢想日記：卡比吹泡泡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -399,7 +446,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 8: 詳細的鏡中自拍御宅族房間場景
+### No. 9: 詳細的鏡中自拍御宅族房間場景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -502,7 +549,61 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 9: 黑白工作室側身肖像提示
+### No. 10: 江戶時代浮世繪風格的現代場景再詮釋
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個高度結構化的圖像提示，用於描繪一個現代場景，重新構想為日本江戶時代的浮世繪木刻版畫，並詳細指導時代錯誤的科技、構圖、紋理和色彩。
+
+#### 📝 提示詞
+
+```
+一幅日本江戶時代的浮世繪木刻版畫。整體感覺是葛飾北齋和歌川廣重等大師的超現實合作，透過古老的視角重新詮釋現代科技。
+
+**場景：** {argument name="modern scene" default="繁忙的澀谷十字路口"}
+
+**江戶時代的轉化邏輯：**
+人物身著江戶時代的和服，卻從事現代活動。所有科技都被轉化為超現實的江戶時代等效物：
+* 智慧型手機是發光的、繪有圖案的紙捲，人們正專注地閱讀。
+* 地鐵站和列車是巨大的、鉸接式的木製蜈蚣車廂，在人群中穿梭。
+* 摩天大樓被重新想像成無盡的、高聳入雲的木製寶塔，直達戲劇性的雲層。
+* 機器人和機甲則以巨大的、穿著盔甲的木刻魔像形式出現。
+
+構圖採用扁平視角，具有粗大、醒目的手刻墨線輪廓。背景以高度風格化的浮世繪波浪圖案和戲劇性的旋渦雲為特色，遠處地平線上可見富士山。
+
+圖像必須看起來像實體版畫，而非數位繪畫。
+* 紋理：整幅作品中都有明顯的木紋紋理和粗糙的紙纖維。
+* 印刷瑕疵：顏料滲色明顯。模擬手工壓印板，帶有輕微的顏色錯位，以增加真實感。
+* 色彩調色板：嚴格限於傳統礦物顏料，主要使用普魯士藍、朱紅色和柔和的赭黃色。
+* 光線：柔和、平坦、無陰影的光線，沒有數位漸變。
+
+長寬比為 3:4 的垂直海報。包含描述場景的垂直日文書法和角落的傳統紅色藝術家印章。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="江戶時代浮世繪風格的現代場景再詮釋 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1995497350543110411)
+- **發布時間:** 2025年12月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%B9%85%E6%97%A5%E6%9C%AC%E6%B1%9F%E6%88%B6%E6%99%82%E4%BB%A3%E7%9A%84%E6%B5%AE%E4%B8%96%E7%B9%AA%E6%9C%A8%E5%88%BB%E7%89%88%E7%95%AB%E3%80%82%E6%95%B4%E9%AB%94%E6%84%9F%E8%A6%BA%E6%98%AF%E8%91%9B%E9%A3%BE%E5%8C%97%E9%BD%8B%E5%92%8C%E6%AD%8C%E5%B7%9D%E5%BB%A3%E9%87%8D%E7%AD%89%E5%A4%A7%E5%B8%AB%E7%9A%84%E8%B6%85%E7%8F%BE%E5%AF%A6%E5%90%88%E4%BD%9C%EF%BC%8C%E9%80%8F%E9%81%8E%E5%8F%A4%E8%80%81%E7%9A%84%E8%A6%96%E8%A7%92%E9%87%8D%E6%96%B0%E8%A9%AE%E9%87%8B%E7%8F%BE%E4%BB%A3%E7%A7%91%E6%8A%80%E3%80%82%0A%0A**%E5%A0%B4%E6%99%AF%EF%BC%9A**%20%7Bargument%20name%3D%22modern%20scene%22%20default%3D%22%E7%B9%81%E5%BF%99%E7%9A%84%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%22%7D%0A%0A**%E6%B1%9F%E6%88%B6%E6%99%82%E4%BB%A3%E7%9A%84%E8%BD%89%E5%8C%96%E9%82%8F%E8%BC%AF%EF%BC%9A**%0A%E4%BA%BA%E7%89%A9%E8%BA%AB%E8%91%97%E6%B1%9F%E6%88%B6%E6%99%82%E4%BB%A3%E7%9A%84%E5%92%8C%E6%9C%8D%EF%BC%8C%E5%8D%BB%E5%BE%9E%E4%BA%8B%E7%8F%BE%E4%BB%A3%E6%B4%BB%E5%8B%95%E3%80%82%E6%89%80%E6%9C%89%E7%A7%91%E6%8A%80%E9%83%BD%E8%A2%AB%E8%BD%89%E5%8C%96%E7%82%BA%E8%B6%85%E7%8F%BE%E5%AF%A6%E7%9A%84%E6%B1%9F%E6%88%B6%E6%99%82%E4%BB%A3%E7%AD%89%E6%95%88%E7%89%A9%EF%BC%9A%0A*%20%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E6%98%AF%E7%99%BC%E5%85%89%E7%9A%84%E3%80%81%E7%B9%AA%E6%9C%89%E5%9C%96%E6%A1%88%E7%9A%84%E7%B4%99%E6%8D%B2%EF%BC%8C%E4%BA%BA%E5%80%91%E6%AD%A3%E5%B0%88%E6%B3%A8%E5%9C%B0%E9%96%B1%E8%AE%80%E3%80%82%0A*%20%E5%9C%B0%E9%90%B5%E7%AB%99%E5%92%8C%E5%88%97%E8%BB%8A%E6%98%AF%E5%B7%A8%E5%A4%A7%E7%9A%84%E3%80%81%E9%89%B8%E6%8E%A5%E5%BC%8F%E7%9A%84%E6%9C%A8%E8%A3%BD%E8%9C%88%E8%9A%A3%E8%BB%8A%E5%BB%82%EF%BC%8C%E5%9C%A8%E4%BA%BA%E7%BE%A4%E4%B8%AD%E7%A9%BF%E6%A2%AD%E3%80%82%0A*%20%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A8%93%E8%A2%AB%E9%87%8D%E6%96%B0%E6%83%B3%E5%83%8F%E6%88%90%E7%84%A1%E7%9B%A1%E7%9A%84%E3%80%81%E9%AB%98%E8%81%B3%E5%85%A5%E9%9B%B2%E7%9A%84%E6%9C%A8%E8%A3%BD%E5%AF%B6%E5%A1%94%EF%BC%8C%E7%9B%B4%E9%81%94%E6%88%B2%E5%8A%87%E6%80%A7%E7%9A%84%E9%9B%B2%E5%B1%A4%E3%80%82%0A*%20%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%92%8C%E6%A9%9F%E7%94%B2%E5%89%87%E4%BB%A5%E5%B7%A8%E5%A4%A7%E7%9A%84%E3%80%81%E7%A9%BF%E8%91%97%E7%9B%94%E7%94%B2%E7%9A%84%E6%9C%A8%E5%88%BB%E9%AD%94%E5%83%8F%E5%BD%A2%E5%BC%8F%E5%87%BA%E7%8F%BE%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E8%A6%96%E8%A7%92%EF%BC%8C%E5%85%B7%E6%9C%89%E7%B2%97%E5%A4%A7%E3%80%81%E9%86%92%E7%9B%AE%E7%9A%84%E6%89%8B%E5%88%BB%E5%A2%A8%E7%B7%9A%E8%BC%AA%E5%BB%93%E3%80%82%E8%83%8C%E6%99%AF%E4%BB%A5%E9%AB%98%E5%BA%A6%E9%A2%A8%E6%A0%BC%E5%8C%96%E7%9A%84%E6%B5%AE%E4%B8%96%E7%B9%AA%E6%B3%A2%E6%B5%AA%E5%9C%96%E6%A1%88%E5%92%8C%E6%88%B2%E5%8A%87%E6%80%A7%E7%9A%84%E6%97%8B%E6%B8%A6%E9%9B%B2%E7%82%BA%E7%89%B9%E8%89%B2%EF%BC%8C%E9%81%A0%E8%99%95%E5%9C%B0%E5%B9%B3%E7%B7%9A%E4%B8%8A%E5%8F%AF%E8%A6%8B%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%80%82%0A%0A%E5%9C%96%E5%83%8F%E5%BF%85%E9%A0%88%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E5%AF%A6%E9%AB%94%E7%89%88%E7%95%AB%EF%BC%8C%E8%80%8C%E9%9D%9E%E6%95%B8%E4%BD%8D%E7%B9%AA%E7%95%AB%E3%80%82%0A*%20%E7%B4%8B%E7%90%86%EF%BC%9A%E6%95%B4%E5%B9%85%E4%BD%9C%E5%93%81%E4%B8%AD%E9%83%BD%E6%9C%89%E6%98%8E%E9%A1%AF%E7%9A%84%E6%9C%A8%E7%B4%8B%E7%B4%8B%E7%90%86%E5%92%8C%E7%B2%97%E7%B3%99%E7%9A%84%E7%B4%99%E7%BA%96%E7%B6%AD%E3%80%82%0A*%20%E5%8D%B0%E5%88%B7%E7%91%95%E7%96%B5%EF%BC%9A%E9%A1%8F%E6%96%99%E6%BB%B2%E8%89%B2%E6%98%8E%E9%A1%AF%E3%80%82%E6%A8%A1%E6%93%AC%E6%89%8B%E5%B7%A5%E5%A3%93%E5%8D%B0%E6%9D%BF%EF%BC%8C%E5%B8%B6%E6%9C%89%E8%BC%95%E5%BE%AE%E7%9A%84%E9%A1%8F%E8%89%B2%E9%8C%AF%E4%BD%8D%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%8A%A0%E7%9C%9F%E5%AF%A6%E6%84%9F%E3%80%82%0A*%20%E8%89%B2%E5%BD%A9%E8%AA%BF%E8%89%B2%E6%9D%BF%EF%BC%9A%E5%9A%B4%E6%A0%BC%E9%99%90%E6%96%BC%E5%82%B3%E7%B5%B1%E7%A4%A6%E7%89%A9%E9%A1%8F%E6%96%99%EF%BC%8C%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8%E6%99%AE%E9%AD%AF%E5%A3%AB%E8%97%8D%E3%80%81%E6%9C%B1%E7%B4%85%E8%89%B2%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%B5%AD%E9%BB%83%E8%89%B2%E3%80%82%0A*%20%E5%85%89%E7%B7%9A%EF%BC%9A%E6%9F%94%E5%92%8C%E3%80%81%E5%B9%B3%E5%9D%A6%E3%80%81%E7%84%A1%E9%99%B0%E5%BD%B1%E7%9A%84%E5%85%89%E7%B7%9A%EF%BC%8C%E6%B2%92%E6%9C%89%E6%95%B8%E4%BD%8D%E6%BC%B8%E8%AE%8A%E3%80%82%0A%0A%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%203%3A4%20%E7%9A%84%E5%9E%82%E7%9B%B4%E6%B5%B7%E5%A0%B1%E3%80%82%E5%8C%85%E5%90%AB%E6%8F%8F%E8%BF%B0%E5%A0%B4%E6%99%AF%E7%9A%84%E5%9E%82%E7%9B%B4%E6%97%A5%E6%96%87%E6%9B%B8%E6%B3%95%E5%92%8C%E8%A7%92%E8%90%BD%E7%9A%84%E5%82%B3%E7%B5%B1%E7%B4%85%E8%89%B2%E8%97%9D%E8%A1%93%E5%AE%B6%E5%8D%B0%E7%AB%A0%E3%80%82)**
+
+---
+
+### No. 11: 黑白工作室側身肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -541,7 +642,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 10: 2005 年 Sony CyberShot 商場美食廣場快照提示
+### No. 12: 2005 年 Sony CyberShot 商場美食廣場快照提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -582,7 +683,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 11: 橄欖油品牌社群媒體內容生成請求
+### No. 13: 橄欖油品牌社群媒體內容生成請求
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -617,7 +718,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 12: 重複橄欖油社群媒體貼文提示
+### No. 14: 重複橄欖油社群媒體貼文提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -656,7 +757,105 @@ https://t.co/QxbYpfFVj6
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 輕便數位相機螢幕人像提示
+### No. 1: 新海誠風格電影天空背景插畫
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於生成新海誠風格的寬幅 16:9 背景插畫的提示，著重於壯麗的天空和寫實的城市或日常環境，並可選擇替換您自己的場景。
+
+#### 📝 提示詞
+
+```
+生成一張新海誠動畫電影風格的精美背景插畫。核心場景是：「{argument name="scene" default="櫻花盛開的鐵路平交道"}」，但重點不在於人物，而是環境和天空的氛圍。
+
+採用寬廣的 16:9 構圖，彷彿是直接從新海誠電影中截取的一幀畫面。天空必須是絕對的主角，佔據畫面大部分。描繪一個極其壯觀、細節豐富的天空：例如，高聳入雲的積雨雲，或是橙色、紫色和深藍色漸層交織的華麗晚霞，又或是雨後橫跨城市的巨大彩虹。光線應選在一天中最魔幻的時刻，即黃金時段（Golden Hour）或藍色時段（Blue Hour）。在天空中加入強烈而柔和的鏡頭光暈，陽光穿透雲層間隙形成清晰的體積光線，空氣中飄浮著微小的發光塵埃和光粒子。
+
+對於地面和環境，以近乎寫實的細節描繪 {scene}：仔細描繪電線桿、複雜的電線網、路標、交通燈、自動販賣機、遠處摩天大樓的剪影，以及日常都市生活的小痕跡。如果場景包含雨水或水窪，地面應呈現濕潤感，像鏡子一樣反射天空和附近燈光的顏色，使畫面充滿透明、清冷的氛圍和些微的濕潤感。
+
+構圖方面，使用廣角、大尺度的視角來強調環境的宏偉和強烈的景深感，讓觀者感覺自己正仰望天空，被景色吞噬。如果畫面中有人物，他們應該是微小的剪影或背影，站在街角、屋頂上或鐵路旁，凝視著天空或遠方。他們渺小的身影應增強故事感、孤獨感和對未來的想像，而不是搶走環境的風采。
+
+整體色彩應清晰飽和但不刺眼。光影對比應強烈而柔和，細節豐富，足以直接用作桌面壁紙。風格必須清晰地帶有新海誠標誌性的浪漫和透明感，而非厚重的油畫或純粹的攝影寫實主義。高解析度插畫，16:9 寬螢幕比例。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915823013_wp5zyc_G7UUTHWbwAAHSbO.jpg" width="600" alt="新海誠風格電影天空背景插畫 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915826327_m0vss5_G7UUTHTbgAIrtbn.jpg" width="600" alt="新海誠風格電影天空背景插畫 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1996524339790024830)
+- **發布時間:** 2025年12月4日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E6%96%B0%E6%B5%B7%E8%AA%A0%E5%8B%95%E7%95%AB%E9%9B%BB%E5%BD%B1%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%B2%BE%E7%BE%8E%E8%83%8C%E6%99%AF%E6%8F%92%E7%95%AB%E3%80%82%E6%A0%B8%E5%BF%83%E5%A0%B4%E6%99%AF%E6%98%AF%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22scene%22%20default%3D%22%E6%AB%BB%E8%8A%B1%E7%9B%9B%E9%96%8B%E7%9A%84%E9%90%B5%E8%B7%AF%E5%B9%B3%E4%BA%A4%E9%81%93%22%7D%E3%80%8D%EF%BC%8C%E4%BD%86%E9%87%8D%E9%BB%9E%E4%B8%8D%E5%9C%A8%E6%96%BC%E4%BA%BA%E7%89%A9%EF%BC%8C%E8%80%8C%E6%98%AF%E7%92%B0%E5%A2%83%E5%92%8C%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%8E%A1%E7%94%A8%E5%AF%AC%E5%BB%A3%E7%9A%84%2016%3A9%20%E6%A7%8B%E5%9C%96%EF%BC%8C%E5%BD%B7%E5%BD%BF%E6%98%AF%E7%9B%B4%E6%8E%A5%E5%BE%9E%E6%96%B0%E6%B5%B7%E8%AA%A0%E9%9B%BB%E5%BD%B1%E4%B8%AD%E6%88%AA%E5%8F%96%E7%9A%84%E4%B8%80%E5%B9%80%E7%95%AB%E9%9D%A2%E3%80%82%E5%A4%A9%E7%A9%BA%E5%BF%85%E9%A0%88%E6%98%AF%E7%B5%95%E5%B0%8D%E7%9A%84%E4%B8%BB%E8%A7%92%EF%BC%8C%E4%BD%94%E6%93%9A%E7%95%AB%E9%9D%A2%E5%A4%A7%E9%83%A8%E5%88%86%E3%80%82%E6%8F%8F%E7%B9%AA%E4%B8%80%E5%80%8B%E6%A5%B5%E5%85%B6%E5%A3%AF%E8%A7%80%E3%80%81%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%E7%9A%84%E5%A4%A9%E7%A9%BA%EF%BC%9A%E4%BE%8B%E5%A6%82%EF%BC%8C%E9%AB%98%E8%81%B3%E5%85%A5%E9%9B%B2%E7%9A%84%E7%A9%8D%E9%9B%A8%E9%9B%B2%EF%BC%8C%E6%88%96%E6%98%AF%E6%A9%99%E8%89%B2%E3%80%81%E7%B4%AB%E8%89%B2%E5%92%8C%E6%B7%B1%E8%97%8D%E8%89%B2%E6%BC%B8%E5%B1%A4%E4%BA%A4%E7%B9%94%E7%9A%84%E8%8F%AF%E9%BA%97%E6%99%9A%E9%9C%9E%EF%BC%8C%E5%8F%88%E6%88%96%E6%98%AF%E9%9B%A8%E5%BE%8C%E6%A9%AB%E8%B7%A8%E5%9F%8E%E5%B8%82%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%BD%A9%E8%99%B9%E3%80%82%E5%85%89%E7%B7%9A%E6%87%89%E9%81%B8%E5%9C%A8%E4%B8%80%E5%A4%A9%E4%B8%AD%E6%9C%80%E9%AD%94%E5%B9%BB%E7%9A%84%E6%99%82%E5%88%BB%EF%BC%8C%E5%8D%B3%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%EF%BC%88Golden%20Hour%EF%BC%89%E6%88%96%E8%97%8D%E8%89%B2%E6%99%82%E6%AE%B5%EF%BC%88Blue%20Hour%EF%BC%89%E3%80%82%E5%9C%A8%E5%A4%A9%E7%A9%BA%E4%B8%AD%E5%8A%A0%E5%85%A5%E5%BC%B7%E7%83%88%E8%80%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%8F%A1%E9%A0%AD%E5%85%89%E6%9A%88%EF%BC%8C%E9%99%BD%E5%85%89%E7%A9%BF%E9%80%8F%E9%9B%B2%E5%B1%A4%E9%96%93%E9%9A%99%E5%BD%A2%E6%88%90%E6%B8%85%E6%99%B0%E7%9A%84%E9%AB%94%E7%A9%8D%E5%85%89%E7%B7%9A%EF%BC%8C%E7%A9%BA%E6%B0%A3%E4%B8%AD%E9%A3%84%E6%B5%AE%E8%91%97%E5%BE%AE%E5%B0%8F%E7%9A%84%E7%99%BC%E5%85%89%E5%A1%B5%E5%9F%83%E5%92%8C%E5%85%89%E7%B2%92%E5%AD%90%E3%80%82%0A%0A%E5%B0%8D%E6%96%BC%E5%9C%B0%E9%9D%A2%E5%92%8C%E7%92%B0%E5%A2%83%EF%BC%8C%E4%BB%A5%E8%BF%91%E4%B9%8E%E5%AF%AB%E5%AF%A6%E7%9A%84%E7%B4%B0%E7%AF%80%E6%8F%8F%E7%B9%AA%20%7Bscene%7D%EF%BC%9A%E4%BB%94%E7%B4%B0%E6%8F%8F%E7%B9%AA%E9%9B%BB%E7%B7%9A%E6%A1%BF%E3%80%81%E8%A4%87%E9%9B%9C%E7%9A%84%E9%9B%BB%E7%B7%9A%E7%B6%B2%E3%80%81%E8%B7%AF%E6%A8%99%E3%80%81%E4%BA%A4%E9%80%9A%E7%87%88%E3%80%81%E8%87%AA%E5%8B%95%E8%B2%A9%E8%B3%A3%E6%A9%9F%E3%80%81%E9%81%A0%E8%99%95%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A8%93%E7%9A%84%E5%89%AA%E5%BD%B1%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%97%A5%E5%B8%B8%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB%E7%9A%84%E5%B0%8F%E7%97%95%E8%B7%A1%E3%80%82%E5%A6%82%E6%9E%9C%E5%A0%B4%E6%99%AF%E5%8C%85%E5%90%AB%E9%9B%A8%E6%B0%B4%E6%88%96%E6%B0%B4%E7%AA%AA%EF%BC%8C%E5%9C%B0%E9%9D%A2%E6%87%89%E5%91%88%E7%8F%BE%E6%BF%95%E6%BD%A4%E6%84%9F%EF%BC%8C%E5%83%8F%E9%8F%A1%E5%AD%90%E4%B8%80%E6%A8%A3%E5%8F%8D%E5%B0%84%E5%A4%A9%E7%A9%BA%E5%92%8C%E9%99%84%E8%BF%91%E7%87%88%E5%85%89%E7%9A%84%E9%A1%8F%E8%89%B2%EF%BC%8C%E4%BD%BF%E7%95%AB%E9%9D%A2%E5%85%85%E6%BB%BF%E9%80%8F%E6%98%8E%E3%80%81%E6%B8%85%E5%86%B7%E7%9A%84%E6%B0%9B%E5%9C%8D%E5%92%8C%E4%BA%9B%E5%BE%AE%E7%9A%84%E6%BF%95%E6%BD%A4%E6%84%9F%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E6%96%B9%E9%9D%A2%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%BB%A3%E8%A7%92%E3%80%81%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%9A%84%E8%A6%96%E8%A7%92%E4%BE%86%E5%BC%B7%E8%AA%BF%E7%92%B0%E5%A2%83%E7%9A%84%E5%AE%8F%E5%81%89%E5%92%8C%E5%BC%B7%E7%83%88%E7%9A%84%E6%99%AF%E6%B7%B1%E6%84%9F%EF%BC%8C%E8%AE%93%E8%A7%80%E8%80%85%E6%84%9F%E8%A6%BA%E8%87%AA%E5%B7%B1%E6%AD%A3%E4%BB%B0%E6%9C%9B%E5%A4%A9%E7%A9%BA%EF%BC%8C%E8%A2%AB%E6%99%AF%E8%89%B2%E5%90%9E%E5%99%AC%E3%80%82%E5%A6%82%E6%9E%9C%E7%95%AB%E9%9D%A2%E4%B8%AD%E6%9C%89%E4%BA%BA%E7%89%A9%EF%BC%8C%E4%BB%96%E5%80%91%E6%87%89%E8%A9%B2%E6%98%AF%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%89%AA%E5%BD%B1%E6%88%96%E8%83%8C%E5%BD%B1%EF%BC%8C%E7%AB%99%E5%9C%A8%E8%A1%97%E8%A7%92%E3%80%81%E5%B1%8B%E9%A0%82%E4%B8%8A%E6%88%96%E9%90%B5%E8%B7%AF%E6%97%81%EF%BC%8C%E5%87%9D%E8%A6%96%E8%91%97%E5%A4%A9%E7%A9%BA%E6%88%96%E9%81%A0%E6%96%B9%E3%80%82%E4%BB%96%E5%80%91%E6%B8%BA%E5%B0%8F%E7%9A%84%E8%BA%AB%E5%BD%B1%E6%87%89%E5%A2%9E%E5%BC%B7%E6%95%85%E4%BA%8B%E6%84%9F%E3%80%81%E5%AD%A4%E7%8D%A8%E6%84%9F%E5%92%8C%E5%B0%8D%E6%9C%AA%E4%BE%86%E7%9A%84%E6%83%B3%E5%83%8F%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E6%90%B6%E8%B5%B0%E7%92%B0%E5%A2%83%E7%9A%84%E9%A2%A8%E9%87%87%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E8%89%B2%E5%BD%A9%E6%87%89%E6%B8%85%E6%99%B0%E9%A3%BD%E5%92%8C%E4%BD%86%E4%B8%8D%E5%88%BA%E7%9C%BC%E3%80%82%E5%85%89%E5%BD%B1%E5%B0%8D%E6%AF%94%E6%87%89%E5%BC%B7%E7%83%88%E8%80%8C%E6%9F%94%E5%92%8C%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%EF%BC%8C%E8%B6%B3%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8%E4%BD%9C%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%B4%99%E3%80%82%E9%A2%A8%E6%A0%BC%E5%BF%85%E9%A0%88%E6%B8%85%E6%99%B0%E5%9C%B0%E5%B8%B6%E6%9C%89%E6%96%B0%E6%B5%B7%E8%AA%A0%E6%A8%99%E8%AA%8C%E6%80%A7%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%92%8C%E9%80%8F%E6%98%8E%E6%84%9F%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%8E%9A%E9%87%8D%E7%9A%84%E6%B2%B9%E7%95%AB%E6%88%96%E7%B4%94%E7%B2%B9%E7%9A%84%E6%94%9D%E5%BD%B1%E5%AF%AB%E5%AF%A6%E4%B8%BB%E7%BE%A9%E3%80%82%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%8F%92%E7%95%AB%EF%BC%8C16%3A9%20%E5%AF%AC%E8%9E%A2%E5%B9%95%E6%AF%94%E4%BE%8B%E3%80%82)**
+
+---
+
+### No. 2: 以《女神異聞錄 5》為靈感的普普藝術動漫海報，為原創中二病角色設計
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個動態的普普藝術動漫提示，能將任何給定的角色概念轉化為誇張、遊戲開場風格的海報，並帶有大膽的賽璐珞著色、塗鴉元素和 UI 疊層。
+
+#### 📝 提示詞
+
+```
+生成一張視覺上極具爆發力且時尚的普普藝術動漫插畫。圖像的主角是「{argument name="character" default="一位中二病爆棚的騎士"}」，整體風格應參考《女神異聞錄 5》和街頭塗鴉視覺元素，將角色塑造成一個極度華麗、極度扁平、超酷的動漫人物。
+
+角色使用銳利的賽璐珞上色（cel-shading），線條硬朗、清晰，輪廓分明。姿勢必須誇張且充滿動感。可以使用廣角或魚眼鏡頭，讓手、武器或道具看起來極度靠近鏡頭，就像特殊攻擊發動瞬間的定格畫面。表情應極具戲劇性，帶著自信、狂躁或冷血的「過度表演」強度，而非平靜的日常神情。
+
+摒棄寫實的體積感和陰影；取而代之的是大面積的純黑重影和高飽和度的平面色塊，以創造出極端、高對比度的扁平視覺效果。主要顏色可以是亮紅色、檸檬黃、電光藍、霓虹紫等，與大片黑色陰影剪影形成對比。在陰影和背景中加入網點、半色調點、速度線和放射線，使圖像感覺像是疊加了街頭塗鴉的印刷漫畫。
+
+背景無需寫實的透視空間；它應該是一個扁平的視覺拼貼舞台，充滿巨大的無襯線英文字母、撕裂的紙張效果、墨水飛濺、大膽的箭頭圖形、對話框和擬聲詞，例如誇張的「BOOM」、「SLASH」或「WAKE UP」塗鴉音效。您可以將 UI 元素融入場景中——血條、技能名稱、按鈕、數字、工具提示——漂浮在主角周圍，彷彿遊戲介面和插畫融為一體，打破了第四面牆。
+
+燈光保持高對比度，但不追求物理寫實；思考圖形設計中黑/白/色彩的區域，而非自然光邏輯。角色和背景上色塊之間的邊緣應非常銳利，沒有柔和的漸變；所有顏色都應清晰分離。您可以在特定區域添加粗糙的噴漆、塗抹或手繪塗鴉紋理，以增強街頭和手工感。
+
+整體氛圍必須極度動感、極度中二、極度酷炫，彷彿圖像即將衝出螢幕，而非靜靜地掛在畫廊中。避免寫實的油畫風格、低飽和度的復古外觀或溫和柔美的插畫風格。不要使用自然風景或日常生活背景，並避免柔和的粉彩色調。圖像應為垂直 2:3 的高解析度插畫，適合作為一張充滿張力、極繁主義的普普藝術漫畫海報。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915822232_q88qg6_G7TgabUaMAEBRj5.jpg" width="600" alt="以《女神異聞錄 5》為靈感的普普藝術動漫海報，為原創中二病角色設計 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915825887_c2wieh_G7TgabSbEAATg86.jpg" width="600" alt="以《女神異聞錄 5》為靈感的普普藝術動漫海報，為原創中二病角色設計 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1996467308529942931)
+- **發布時間:** 2025年12月4日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E8%A6%96%E8%A6%BA%E4%B8%8A%E6%A5%B5%E5%85%B7%E7%88%86%E7%99%BC%E5%8A%9B%E4%B8%94%E6%99%82%E5%B0%9A%E7%9A%84%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93%E5%8B%95%E6%BC%AB%E6%8F%92%E7%95%AB%E3%80%82%E5%9C%96%E5%83%8F%E7%9A%84%E4%B8%BB%E8%A7%92%E6%98%AF%E3%80%8C%7Bargument%20name%3D%22character%22%20default%3D%22%E4%B8%80%E4%BD%8D%E4%B8%AD%E4%BA%8C%E7%97%85%E7%88%86%E6%A3%9A%E7%9A%84%E9%A8%8E%E5%A3%AB%22%7D%E3%80%8D%EF%BC%8C%E6%95%B4%E9%AB%94%E9%A2%A8%E6%A0%BC%E6%87%89%E5%8F%83%E8%80%83%E3%80%8A%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84%205%E3%80%8B%E5%92%8C%E8%A1%97%E9%A0%AD%E5%A1%97%E9%B4%89%E8%A6%96%E8%A6%BA%E5%85%83%E7%B4%A0%EF%BC%8C%E5%B0%87%E8%A7%92%E8%89%B2%E5%A1%91%E9%80%A0%E6%88%90%E4%B8%80%E5%80%8B%E6%A5%B5%E5%BA%A6%E8%8F%AF%E9%BA%97%E3%80%81%E6%A5%B5%E5%BA%A6%E6%89%81%E5%B9%B3%E3%80%81%E8%B6%85%E9%85%B7%E7%9A%84%E5%8B%95%E6%BC%AB%E4%BA%BA%E7%89%A9%E3%80%82%0A%0A%E8%A7%92%E8%89%B2%E4%BD%BF%E7%94%A8%E9%8A%B3%E5%88%A9%E7%9A%84%E8%B3%BD%E7%92%90%E7%8F%9E%E4%B8%8A%E8%89%B2%EF%BC%88cel-shading%EF%BC%89%EF%BC%8C%E7%B7%9A%E6%A2%9D%E7%A1%AC%E6%9C%97%E3%80%81%E6%B8%85%E6%99%B0%EF%BC%8C%E8%BC%AA%E5%BB%93%E5%88%86%E6%98%8E%E3%80%82%E5%A7%BF%E5%8B%A2%E5%BF%85%E9%A0%88%E8%AA%87%E5%BC%B5%E4%B8%94%E5%85%85%E6%BB%BF%E5%8B%95%E6%84%9F%E3%80%82%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%BB%A3%E8%A7%92%E6%88%96%E9%AD%9A%E7%9C%BC%E9%8F%A1%E9%A0%AD%EF%BC%8C%E8%AE%93%E6%89%8B%E3%80%81%E6%AD%A6%E5%99%A8%E6%88%96%E9%81%93%E5%85%B7%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%A5%B5%E5%BA%A6%E9%9D%A0%E8%BF%91%E9%8F%A1%E9%A0%AD%EF%BC%8C%E5%B0%B1%E5%83%8F%E7%89%B9%E6%AE%8A%E6%94%BB%E6%93%8A%E7%99%BC%E5%8B%95%E7%9E%AC%E9%96%93%E7%9A%84%E5%AE%9A%E6%A0%BC%E7%95%AB%E9%9D%A2%E3%80%82%E8%A1%A8%E6%83%85%E6%87%89%E6%A5%B5%E5%85%B7%E6%88%B2%E5%8A%87%E6%80%A7%EF%BC%8C%E5%B8%B6%E8%91%97%E8%87%AA%E4%BF%A1%E3%80%81%E7%8B%82%E8%BA%81%E6%88%96%E5%86%B7%E8%A1%80%E7%9A%84%E3%80%8C%E9%81%8E%E5%BA%A6%E8%A1%A8%E6%BC%94%E3%80%8D%E5%BC%B7%E5%BA%A6%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E9%9D%9C%E7%9A%84%E6%97%A5%E5%B8%B8%E7%A5%9E%E6%83%85%E3%80%82%0A%0A%E6%91%92%E6%A3%84%E5%AF%AB%E5%AF%A6%E7%9A%84%E9%AB%94%E7%A9%8D%E6%84%9F%E5%92%8C%E9%99%B0%E5%BD%B1%EF%BC%9B%E5%8F%96%E8%80%8C%E4%BB%A3%E4%B9%8B%E7%9A%84%E6%98%AF%E5%A4%A7%E9%9D%A2%E7%A9%8D%E7%9A%84%E7%B4%94%E9%BB%91%E9%87%8D%E5%BD%B1%E5%92%8C%E9%AB%98%E9%A3%BD%E5%92%8C%E5%BA%A6%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%89%B2%E5%A1%8A%EF%BC%8C%E4%BB%A5%E5%89%B5%E9%80%A0%E5%87%BA%E6%A5%B5%E7%AB%AF%E3%80%81%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E7%9A%84%E6%89%81%E5%B9%B3%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C%E3%80%82%E4%B8%BB%E8%A6%81%E9%A1%8F%E8%89%B2%E5%8F%AF%E4%BB%A5%E6%98%AF%E4%BA%AE%E7%B4%85%E8%89%B2%E3%80%81%E6%AA%B8%E6%AA%AC%E9%BB%83%E3%80%81%E9%9B%BB%E5%85%89%E8%97%8D%E3%80%81%E9%9C%93%E8%99%B9%E7%B4%AB%E7%AD%89%EF%BC%8C%E8%88%87%E5%A4%A7%E7%89%87%E9%BB%91%E8%89%B2%E9%99%B0%E5%BD%B1%E5%89%AA%E5%BD%B1%E5%BD%A2%E6%88%90%E5%B0%8D%E6%AF%94%E3%80%82%E5%9C%A8%E9%99%B0%E5%BD%B1%E5%92%8C%E8%83%8C%E6%99%AF%E4%B8%AD%E5%8A%A0%E5%85%A5%E7%B6%B2%E9%BB%9E%E3%80%81%E5%8D%8A%E8%89%B2%E8%AA%BF%E9%BB%9E%E3%80%81%E9%80%9F%E5%BA%A6%E7%B7%9A%E5%92%8C%E6%94%BE%E5%B0%84%E7%B7%9A%EF%BC%8C%E4%BD%BF%E5%9C%96%E5%83%8F%E6%84%9F%E8%A6%BA%E5%83%8F%E6%98%AF%E7%96%8A%E5%8A%A0%E4%BA%86%E8%A1%97%E9%A0%AD%E5%A1%97%E9%B4%89%E7%9A%84%E5%8D%B0%E5%88%B7%E6%BC%AB%E7%95%AB%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E7%84%A1%E9%9C%80%E5%AF%AB%E5%AF%A6%E7%9A%84%E9%80%8F%E8%A6%96%E7%A9%BA%E9%96%93%EF%BC%9B%E5%AE%83%E6%87%89%E8%A9%B2%E6%98%AF%E4%B8%80%E5%80%8B%E6%89%81%E5%B9%B3%E7%9A%84%E8%A6%96%E8%A6%BA%E6%8B%BC%E8%B2%BC%E8%88%9E%E5%8F%B0%EF%BC%8C%E5%85%85%E6%BB%BF%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%84%A1%E8%A5%AF%E7%B7%9A%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8D%E3%80%81%E6%92%95%E8%A3%82%E7%9A%84%E7%B4%99%E5%BC%B5%E6%95%88%E6%9E%9C%E3%80%81%E5%A2%A8%E6%B0%B4%E9%A3%9B%E6%BF%BA%E3%80%81%E5%A4%A7%E8%86%BD%E7%9A%84%E7%AE%AD%E9%A0%AD%E5%9C%96%E5%BD%A2%E3%80%81%E5%B0%8D%E8%A9%B1%E6%A1%86%E5%92%8C%E6%93%AC%E8%81%B2%E8%A9%9E%EF%BC%8C%E4%BE%8B%E5%A6%82%E8%AA%87%E5%BC%B5%E7%9A%84%E3%80%8CBOOM%E3%80%8D%E3%80%81%E3%80%8CSLASH%E3%80%8D%E6%88%96%E3%80%8CWAKE%20UP%E3%80%8D%E5%A1%97%E9%B4%89%E9%9F%B3%E6%95%88%E3%80%82%E6%82%A8%E5%8F%AF%E4%BB%A5%E5%B0%87%20UI%20%E5%85%83%E7%B4%A0%E8%9E%8D%E5%85%A5%E5%A0%B4%E6%99%AF%E4%B8%AD%E2%80%94%E2%80%94%E8%A1%80%E6%A2%9D%E3%80%81%E6%8A%80%E8%83%BD%E5%90%8D%E7%A8%B1%E3%80%81%E6%8C%89%E9%88%95%E3%80%81%E6%95%B8%E5%AD%97%E3%80%81%E5%B7%A5%E5%85%B7%E6%8F%90%E7%A4%BA%E2%80%94%E2%80%94%E6%BC%82%E6%B5%AE%E5%9C%A8%E4%B8%BB%E8%A7%92%E5%91%A8%E5%9C%8D%EF%BC%8C%E5%BD%B7%E5%BD%BF%E9%81%8A%E6%88%B2%E4%BB%8B%E9%9D%A2%E5%92%8C%E6%8F%92%E7%95%AB%E8%9E%8D%E7%82%BA%E4%B8%80%E9%AB%94%EF%BC%8C%E6%89%93%E7%A0%B4%E4%BA%86%E7%AC%AC%E5%9B%9B%E9%9D%A2%E7%89%86%E3%80%82%0A%0A%E7%87%88%E5%85%89%E4%BF%9D%E6%8C%81%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%EF%BC%8C%E4%BD%86%E4%B8%8D%E8%BF%BD%E6%B1%82%E7%89%A9%E7%90%86%E5%AF%AB%E5%AF%A6%EF%BC%9B%E6%80%9D%E8%80%83%E5%9C%96%E5%BD%A2%E8%A8%AD%E8%A8%88%E4%B8%AD%E9%BB%91%2F%E7%99%BD%2F%E8%89%B2%E5%BD%A9%E7%9A%84%E5%8D%80%E5%9F%9F%EF%BC%8C%E8%80%8C%E9%9D%9E%E8%87%AA%E7%84%B6%E5%85%89%E9%82%8F%E8%BC%AF%E3%80%82%E8%A7%92%E8%89%B2%E5%92%8C%E8%83%8C%E6%99%AF%E4%B8%8A%E8%89%B2%E5%A1%8A%E4%B9%8B%E9%96%93%E7%9A%84%E9%82%8A%E7%B7%A3%E6%87%89%E9%9D%9E%E5%B8%B8%E9%8A%B3%E5%88%A9%EF%BC%8C%E6%B2%92%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%B8%E8%AE%8A%EF%BC%9B%E6%89%80%E6%9C%89%E9%A1%8F%E8%89%B2%E9%83%BD%E6%87%89%E6%B8%85%E6%99%B0%E5%88%86%E9%9B%A2%E3%80%82%E6%82%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%89%B9%E5%AE%9A%E5%8D%80%E5%9F%9F%E6%B7%BB%E5%8A%A0%E7%B2%97%E7%B3%99%E7%9A%84%E5%99%B4%E6%BC%86%E3%80%81%E5%A1%97%E6%8A%B9%E6%88%96%E6%89%8B%E7%B9%AA%E5%A1%97%E9%B4%89%E7%B4%8B%E7%90%86%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%BC%B7%E8%A1%97%E9%A0%AD%E5%92%8C%E6%89%8B%E5%B7%A5%E6%84%9F%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%BF%85%E9%A0%88%E6%A5%B5%E5%BA%A6%E5%8B%95%E6%84%9F%E3%80%81%E6%A5%B5%E5%BA%A6%E4%B8%AD%E4%BA%8C%E3%80%81%E6%A5%B5%E5%BA%A6%E9%85%B7%E7%82%AB%EF%BC%8C%E5%BD%B7%E5%BD%BF%E5%9C%96%E5%83%8F%E5%8D%B3%E5%B0%87%E8%A1%9D%E5%87%BA%E8%9E%A2%E5%B9%95%EF%BC%8C%E8%80%8C%E9%9D%9E%E9%9D%9C%E9%9D%9C%E5%9C%B0%E6%8E%9B%E5%9C%A8%E7%95%AB%E5%BB%8A%E4%B8%AD%E3%80%82%E9%81%BF%E5%85%8D%E5%AF%AB%E5%AF%A6%E7%9A%84%E6%B2%B9%E7%95%AB%E9%A2%A8%E6%A0%BC%E3%80%81%E4%BD%8E%E9%A3%BD%E5%92%8C%E5%BA%A6%E7%9A%84%E5%BE%A9%E5%8F%A4%E5%A4%96%E8%A7%80%E6%88%96%E6%BA%AB%E5%92%8C%E6%9F%94%E7%BE%8E%E7%9A%84%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%E3%80%82%E4%B8%8D%E8%A6%81%E4%BD%BF%E7%94%A8%E8%87%AA%E7%84%B6%E9%A2%A8%E6%99%AF%E6%88%96%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E8%83%8C%E6%99%AF%EF%BC%8C%E4%B8%A6%E9%81%BF%E5%85%8D%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E8%AA%BF%E3%80%82%E5%9C%96%E5%83%8F%E6%87%89%E7%82%BA%E5%9E%82%E7%9B%B4%202%3A3%20%E7%9A%84%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%8F%92%E7%95%AB%EF%BC%8C%E9%81%A9%E5%90%88%E4%BD%9C%E7%82%BA%E4%B8%80%E5%BC%B5%E5%85%85%E6%BB%BF%E5%BC%B5%E5%8A%9B%E3%80%81%E6%A5%B5%E7%B9%81%E4%B8%BB%E7%BE%A9%E7%9A%84%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93%E6%BC%AB%E7%95%AB%E6%B5%B7%E5%A0%B1%E3%80%82)**
+
+---
+
+### No. 3: 輕便數位相機螢幕人像提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -713,7 +912,7 @@ ISO：400
 
 ---
 
-### No. 2: 使用 Nano Banana Pro 與電影角色拍攝魚眼自拍
+### No. 4: 使用 Nano Banana Pro 與電影角色拍攝魚眼自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -769,7 +968,7 @@ ISO：400
 
 ---
 
-### No. 3: Y2K 風格手寫女孩明信片疊圖提示
+### No. 5: Y2K 風格手寫女孩明信片疊圖提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -809,7 +1008,7 @@ ISO：400
 
 ---
 
-### No. 4: 簡單的聖誕狗狗和聖誕老人圖片提示
+### No. 6: 簡單的聖誕狗狗和聖誕老人圖片提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -855,7 +1054,7 @@ ISO：400
 
 ---
 
-### No. 5: Sora 影片提示：Macho Meal 麥當勞廣告
+### No. 7: Sora 影片提示：Macho Meal 麥當勞廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +1094,7 @@ ISO：400
 
 ---
 
-### No. 6: 情侶 MacBook 螢幕自拍模擬提示
+### No. 8: 情侶 MacBook 螢幕自拍模擬提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -994,7 +1193,7 @@ ISO：400
 
 ---
 
-### No. 7: Nano Banana Pro 的日式居酒屋入口招牌圖片提示
+### No. 9: Nano Banana Pro 的日式居酒屋入口招牌圖片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1038,7 +1237,7 @@ ISO：400
 
 ---
 
-### No. 8: 三種姿勢的動漫女孩一致性提示
+### No. 10: 三種姿勢的動漫女孩一致性提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1277,7 @@ ISO：400
 
 ---
 
-### No. 9: 表達風格指南
+### No. 11: 表達風格指南
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1117,7 +1316,88 @@ ISO：400
 
 ---
 
-### No. 10: 馬拉加街頭咖啡館的 iPhone 超逼真場景
+### No. 12: 3D 紙雕燈箱插畫框架
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的提示範本，用於生成夢幻、多層次的 3D 紙雕光影盒藝術作品，您可以替換任何主題，模型將處理圖層、燈光、色彩邏輯和材質真實感。
+
+#### 📝 提示詞
+
+```
+生成一張極具夢幻感和立體感的 3D 紙雕燈箱藝術照片。
+紙雕主題為：{argument name="theme" default="月光下森林中的鹿"}。
+
+分層結構與構圖：
+將圖像設計成一個真實的實體紙雕燈箱，由 5 到 7 層紙張堆疊而成。每一層都必須有其自身的景深和清晰的輪廓，並且您應該能夠看到紙張的厚度以及層與層之間的陰影。
+
+核心結構：
+- 圖像應清晰呈現多層次剪影效果，紙層之間有明顯的物理間距。
+- 整體構圖為垂直 3:4，燈箱置中，邊緣留有少量空間，就像一個放置在桌上的發光藝術品。
+
+景深佈局：
+- 前景（第 1-2 層）：使用深色、複雜的剪影，在圖像邊緣形成一個框架，並包含與當前主題相符的元素，例如森林主題的樹枝和藤蔓、城市或城堡主題的窗戶和拱門，或水下或奇幻主題的岩石和珊瑚。
+- 中景（第 3-4 層）：此處為主題的核心主體，在構圖中略微置中，並佔據主要視覺比重。主體的剪影必須完整，且不被前景過度遮擋。
+- 背景（第 5-6 層）：使用更簡潔、對比度較低的剪影來展示遠處的環境和結構，為場景增加深度。
+
+立體感：
+- 層與層之間必須有明顯的物理間距和陰影。光線應穿透紙層之間，形成柔和的光影漸變，強調紙張的厚度和 3D 深度，使其看起來像一個真正的紙雕燈箱，而非平面插畫。
+
+光線與氛圍（背光）：
+背光：
+- 光源必須來自場景的最深處，向前穿透所有紙層。
+- 穿過每一層鏤空的光線應形成柔和的體積光，並且亮度與對比度從後向前逐漸減弱。
+
+色彩漸變（自動適應主題）：
+如果未指定特定配色方案，請自動選擇符合主題的主要調色板和漸變，同時保持柔和、適合夜燈的觀感。例如，森林主題可選溫暖的金色到冷藍綠色、水下主題可選青色到深藍色、冬季場景可選冰藍色到深藍色、賽博城市可選琥珀色到電光藍、城堡可選燭光金到深靛藍，或太空主題可選深藍色到紫色帶有金色光芒。
+如果用戶明確指定了顏色方向或氛圍（例如「酷炫科幻」或「粉藍夢幻」），則在保持柔和背光、舒緩夜燈感覺的前提下，將其作為最高優先級。
+
+整體感受：
+圖像應給人一種寧靜、療癒、故事書般的感覺，就像一盞柔和發光的睡前故事燈，而不是嘈雜的霓虹海報或資訊圖表。
+
+材料與細節：
+紙張紋理：
+- 強調重磅藝術紙的真實感：細膩的紋理、輕微可見的纖維、清晰銳利的切割邊緣和可見的厚度，以及光線像真實纖維材料一樣柔和地穿透紙張，而非塑膠或金屬。
+
+實體燈箱攝影感：
+- 將圖像呈現為真實燈箱的照片，而非平面插畫或向量圖。您可以隱約顯示燈箱框架（簡潔的白色或淺木色）和略微模糊的桌面或環境。
+- 光線應感覺自然，具有真實鏡頭的景深：前景略微模糊，中景主體清晰，背景柔和。
+
+細節裝飾：
+- 您可以在紙層之間添加少量微小的漂浮元素以增強空間感，例如微小的發光點、塵埃、雪花、氣泡或其他與主題相關的小顆粒。它們的數量必須有所限制，使其僅增強氛圍和深度，而不會雜亂或破壞剪影結構。
+
+技術參數：垂直 3:4 比例，高解析度輸出。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915832844_8io4zt_G7P9MJDbkAAyAdv.jpg" width="600" alt="3D 紙雕燈箱插畫框架 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915835689_u3a0yh_G7P9MJDaAAA9-1Q.jpg" width="600" alt="3D 紙雕燈箱插畫框架 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1996217455295734241)
+- **發布時間:** 2025年12月3日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E6%A5%B5%E5%85%B7%E5%A4%A2%E5%B9%BB%E6%84%9F%E5%92%8C%E7%AB%8B%E9%AB%94%E6%84%9F%E7%9A%84%203D%20%E7%B4%99%E9%9B%95%E7%87%88%E7%AE%B1%E8%97%9D%E8%A1%93%E7%85%A7%E7%89%87%E3%80%82%0A%E7%B4%99%E9%9B%95%E4%B8%BB%E9%A1%8C%E7%82%BA%EF%BC%9A%7Bargument%20name%3D%22theme%22%20default%3D%22%E6%9C%88%E5%85%89%E4%B8%8B%E6%A3%AE%E6%9E%97%E4%B8%AD%E7%9A%84%E9%B9%BF%22%7D%E3%80%82%0A%0A%E5%88%86%E5%B1%A4%E7%B5%90%E6%A7%8B%E8%88%87%E6%A7%8B%E5%9C%96%EF%BC%9A%0A%E5%B0%87%E5%9C%96%E5%83%8F%E8%A8%AD%E8%A8%88%E6%88%90%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%9A%84%E5%AF%A6%E9%AB%94%E7%B4%99%E9%9B%95%E7%87%88%E7%AE%B1%EF%BC%8C%E7%94%B1%205%20%E5%88%B0%207%20%E5%B1%A4%E7%B4%99%E5%BC%B5%E5%A0%86%E7%96%8A%E8%80%8C%E6%88%90%E3%80%82%E6%AF%8F%E4%B8%80%E5%B1%A4%E9%83%BD%E5%BF%85%E9%A0%88%E6%9C%89%E5%85%B6%E8%87%AA%E8%BA%AB%E7%9A%84%E6%99%AF%E6%B7%B1%E5%92%8C%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%EF%BC%8C%E4%B8%A6%E4%B8%94%E6%82%A8%E6%87%89%E8%A9%B2%E8%83%BD%E5%A4%A0%E7%9C%8B%E5%88%B0%E7%B4%99%E5%BC%B5%E7%9A%84%E5%8E%9A%E5%BA%A6%E4%BB%A5%E5%8F%8A%E5%B1%A4%E8%88%87%E5%B1%A4%E4%B9%8B%E9%96%93%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%0A%0A%E6%A0%B8%E5%BF%83%E7%B5%90%E6%A7%8B%EF%BC%9A%0A-%20%E5%9C%96%E5%83%8F%E6%87%89%E6%B8%85%E6%99%B0%E5%91%88%E7%8F%BE%E5%A4%9A%E5%B1%A4%E6%AC%A1%E5%89%AA%E5%BD%B1%E6%95%88%E6%9E%9C%EF%BC%8C%E7%B4%99%E5%B1%A4%E4%B9%8B%E9%96%93%E6%9C%89%E6%98%8E%E9%A1%AF%E7%9A%84%E7%89%A9%E7%90%86%E9%96%93%E8%B7%9D%E3%80%82%0A-%20%E6%95%B4%E9%AB%94%E6%A7%8B%E5%9C%96%E7%82%BA%E5%9E%82%E7%9B%B4%203%3A4%EF%BC%8C%E7%87%88%E7%AE%B1%E7%BD%AE%E4%B8%AD%EF%BC%8C%E9%82%8A%E7%B7%A3%E7%95%99%E6%9C%89%E5%B0%91%E9%87%8F%E7%A9%BA%E9%96%93%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E5%80%8B%E6%94%BE%E7%BD%AE%E5%9C%A8%E6%A1%8C%E4%B8%8A%E7%9A%84%E7%99%BC%E5%85%89%E8%97%9D%E8%A1%93%E5%93%81%E3%80%82%0A%0A%E6%99%AF%E6%B7%B1%E4%BD%88%E5%B1%80%EF%BC%9A%0A-%20%E5%89%8D%E6%99%AF%EF%BC%88%E7%AC%AC%201-2%20%E5%B1%A4%EF%BC%89%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%B7%B1%E8%89%B2%E3%80%81%E8%A4%87%E9%9B%9C%E7%9A%84%E5%89%AA%E5%BD%B1%EF%BC%8C%E5%9C%A8%E5%9C%96%E5%83%8F%E9%82%8A%E7%B7%A3%E5%BD%A2%E6%88%90%E4%B8%80%E5%80%8B%E6%A1%86%E6%9E%B6%EF%BC%8C%E4%B8%A6%E5%8C%85%E5%90%AB%E8%88%87%E7%95%B6%E5%89%8D%E4%B8%BB%E9%A1%8C%E7%9B%B8%E7%AC%A6%E7%9A%84%E5%85%83%E7%B4%A0%EF%BC%8C%E4%BE%8B%E5%A6%82%E6%A3%AE%E6%9E%97%E4%B8%BB%E9%A1%8C%E7%9A%84%E6%A8%B9%E6%9E%9D%E5%92%8C%E8%97%A4%E8%94%93%E3%80%81%E5%9F%8E%E5%B8%82%E6%88%96%E5%9F%8E%E5%A0%A1%E4%B8%BB%E9%A1%8C%E7%9A%84%E7%AA%97%E6%88%B6%E5%92%8C%E6%8B%B1%E9%96%80%EF%BC%8C%E6%88%96%E6%B0%B4%E4%B8%8B%E6%88%96%E5%A5%87%E5%B9%BB%E4%B8%BB%E9%A1%8C%E7%9A%84%E5%B2%A9%E7%9F%B3%E5%92%8C%E7%8F%8A%E7%91%9A%E3%80%82%0A-%20%E4%B8%AD%E6%99%AF%EF%BC%88%E7%AC%AC%203-4%20%E5%B1%A4%EF%BC%89%EF%BC%9A%E6%AD%A4%E8%99%95%E7%82%BA%E4%B8%BB%E9%A1%8C%E7%9A%84%E6%A0%B8%E5%BF%83%E4%B8%BB%E9%AB%94%EF%BC%8C%E5%9C%A8%E6%A7%8B%E5%9C%96%E4%B8%AD%E7%95%A5%E5%BE%AE%E7%BD%AE%E4%B8%AD%EF%BC%8C%E4%B8%A6%E4%BD%94%E6%93%9A%E4%B8%BB%E8%A6%81%E8%A6%96%E8%A6%BA%E6%AF%94%E9%87%8D%E3%80%82%E4%B8%BB%E9%AB%94%E7%9A%84%E5%89%AA%E5%BD%B1%E5%BF%85%E9%A0%88%E5%AE%8C%E6%95%B4%EF%BC%8C%E4%B8%94%E4%B8%8D%E8%A2%AB%E5%89%8D%E6%99%AF%E9%81%8E%E5%BA%A6%E9%81%AE%E6%93%8B%E3%80%82%0A-%20%E8%83%8C%E6%99%AF%EF%BC%88%E7%AC%AC%205-6%20%E5%B1%A4%EF%BC%89%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%9B%B4%E7%B0%A1%E6%BD%94%E3%80%81%E5%B0%8D%E6%AF%94%E5%BA%A6%E8%BC%83%E4%BD%8E%E7%9A%84%E5%89%AA%E5%BD%B1%E4%BE%86%E5%B1%95%E7%A4%BA%E9%81%A0%E8%99%95%E7%9A%84%E7%92%B0%E5%A2%83%E5%92%8C%E7%B5%90%E6%A7%8B%EF%BC%8C%E7%82%BA%E5%A0%B4%E6%99%AF%E5%A2%9E%E5%8A%A0%E6%B7%B1%E5%BA%A6%E3%80%82%0A%0A%E7%AB%8B%E9%AB%94%E6%84%9F%EF%BC%9A%0A-%20%E5%B1%A4%E8%88%87%E5%B1%A4%E4%B9%8B%E9%96%93%E5%BF%85%E9%A0%88%E6%9C%89%E6%98%8E%E9%A1%AF%E7%9A%84%E7%89%A9%E7%90%86%E9%96%93%E8%B7%9D%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%E5%85%89%E7%B7%9A%E6%87%89%E7%A9%BF%E9%80%8F%E7%B4%99%E5%B1%A4%E4%B9%8B%E9%96%93%EF%BC%8C%E5%BD%A2%E6%88%90%E6%9F%94%E5%92%8C%E7%9A%84%E5%85%89%E5%BD%B1%E6%BC%B8%E8%AE%8A%EF%BC%8C%E5%BC%B7%E8%AA%BF%E7%B4%99%E5%BC%B5%E7%9A%84%E5%8E%9A%E5%BA%A6%E5%92%8C%203D%20%E6%B7%B1%E5%BA%A6%EF%BC%8C%E4%BD%BF%E5%85%B6%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E4%B8%80%E5%80%8B%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%B4%99%E9%9B%95%E7%87%88%E7%AE%B1%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%95%AB%E3%80%82%0A%0A%E5%85%89%E7%B7%9A%E8%88%87%E6%B0%9B%E5%9C%8D%EF%BC%88%E8%83%8C%E5%85%89%EF%BC%89%EF%BC%9A%0A%E8%83%8C%E5%85%89%EF%BC%9A%0A-%20%E5%85%89%E6%BA%90%E5%BF%85%E9%A0%88%E4%BE%86%E8%87%AA%E5%A0%B4%E6%99%AF%E7%9A%84%E6%9C%80%E6%B7%B1%E8%99%95%EF%BC%8C%E5%90%91%E5%89%8D%E7%A9%BF%E9%80%8F%E6%89%80%E6%9C%89%E7%B4%99%E5%B1%A4%E3%80%82%0A-%20%E7%A9%BF%E9%81%8E%E6%AF%8F%E4%B8%80%E5%B1%A4%E9%8F%A4%E7%A9%BA%E7%9A%84%E5%85%89%E7%B7%9A%E6%87%89%E5%BD%A2%E6%88%90%E6%9F%94%E5%92%8C%E7%9A%84%E9%AB%94%E7%A9%8D%E5%85%89%EF%BC%8C%E4%B8%A6%E4%B8%94%E4%BA%AE%E5%BA%A6%E8%88%87%E5%B0%8D%E6%AF%94%E5%BA%A6%E5%BE%9E%E5%BE%8C%E5%90%91%E5%89%8D%E9%80%90%E6%BC%B8%E6%B8%9B%E5%BC%B1%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%E6%BC%B8%E8%AE%8A%EF%BC%88%E8%87%AA%E5%8B%95%E9%81%A9%E6%87%89%E4%B8%BB%E9%A1%8C%EF%BC%89%EF%BC%9A%0A%E5%A6%82%E6%9E%9C%E6%9C%AA%E6%8C%87%E5%AE%9A%E7%89%B9%E5%AE%9A%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88%EF%BC%8C%E8%AB%8B%E8%87%AA%E5%8B%95%E9%81%B8%E6%93%87%E7%AC%A6%E5%90%88%E4%B8%BB%E9%A1%8C%E7%9A%84%E4%B8%BB%E8%A6%81%E8%AA%BF%E8%89%B2%E6%9D%BF%E5%92%8C%E6%BC%B8%E8%AE%8A%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E6%8C%81%E6%9F%94%E5%92%8C%E3%80%81%E9%81%A9%E5%90%88%E5%A4%9C%E7%87%88%E7%9A%84%E8%A7%80%E6%84%9F%E3%80%82%E4%BE%8B%E5%A6%82%EF%BC%8C%E6%A3%AE%E6%9E%97%E4%B8%BB%E9%A1%8C%E5%8F%AF%E9%81%B8%E6%BA%AB%E6%9A%96%E7%9A%84%E9%87%91%E8%89%B2%E5%88%B0%E5%86%B7%E8%97%8D%E7%B6%A0%E8%89%B2%E3%80%81%E6%B0%B4%E4%B8%8B%E4%B8%BB%E9%A1%8C%E5%8F%AF%E9%81%B8%E9%9D%92%E8%89%B2%E5%88%B0%E6%B7%B1%E8%97%8D%E8%89%B2%E3%80%81%E5%86%AC%E5%AD%A3%E5%A0%B4%E6%99%AF%E5%8F%AF%E9%81%B8%E5%86%B0%E8%97%8D%E8%89%B2%E5%88%B0%E6%B7%B1%E8%97%8D%E8%89%B2%E3%80%81%E8%B3%BD%E5%8D%9A%E5%9F%8E%E5%B8%82%E5%8F%AF%E9%81%B8%E7%90%A5%E7%8F%80%E8%89%B2%E5%88%B0%E9%9B%BB%E5%85%89%E8%97%8D%E3%80%81%E5%9F%8E%E5%A0%A1%E5%8F%AF%E9%81%B8%E7%87%AD%E5%85%89%E9%87%91%E5%88%B0%E6%B7%B1%E9%9D%9B%E8%97%8D%EF%BC%8C%E6%88%96%E5%A4%AA%E7%A9%BA%E4%B8%BB%E9%A1%8C%E5%8F%AF%E9%81%B8%E6%B7%B1%E8%97%8D%E8%89%B2%E5%88%B0%E7%B4%AB%E8%89%B2%E5%B8%B6%E6%9C%89%E9%87%91%E8%89%B2%E5%85%89%E8%8A%92%E3%80%82%0A%E5%A6%82%E6%9E%9C%E7%94%A8%E6%88%B6%E6%98%8E%E7%A2%BA%E6%8C%87%E5%AE%9A%E4%BA%86%E9%A1%8F%E8%89%B2%E6%96%B9%E5%90%91%E6%88%96%E6%B0%9B%E5%9C%8D%EF%BC%88%E4%BE%8B%E5%A6%82%E3%80%8C%E9%85%B7%E7%82%AB%E7%A7%91%E5%B9%BB%E3%80%8D%E6%88%96%E3%80%8C%E7%B2%89%E8%97%8D%E5%A4%A2%E5%B9%BB%E3%80%8D%EF%BC%89%EF%BC%8C%E5%89%87%E5%9C%A8%E4%BF%9D%E6%8C%81%E6%9F%94%E5%92%8C%E8%83%8C%E5%85%89%E3%80%81%E8%88%92%E7%B7%A9%E5%A4%9C%E7%87%88%E6%84%9F%E8%A6%BA%E7%9A%84%E5%89%8D%E6%8F%90%E4%B8%8B%EF%BC%8C%E5%B0%87%E5%85%B6%E4%BD%9C%E7%82%BA%E6%9C%80%E9%AB%98%E5%84%AA%E5%85%88%E7%B4%9A%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%84%9F%E5%8F%97%EF%BC%9A%0A%E5%9C%96%E5%83%8F%E6%87%89%E7%B5%A6%E4%BA%BA%E4%B8%80%E7%A8%AE%E5%AF%A7%E9%9D%9C%E3%80%81%E7%99%82%E7%99%92%E3%80%81%E6%95%85%E4%BA%8B%E6%9B%B8%E8%88%AC%E7%9A%84%E6%84%9F%E8%A6%BA%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E7%9B%9E%E6%9F%94%E5%92%8C%E7%99%BC%E5%85%89%E7%9A%84%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B%E7%87%88%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%98%88%E9%9B%9C%E7%9A%84%E9%9C%93%E8%99%B9%E6%B5%B7%E5%A0%B1%E6%88%96%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%E3%80%82%0A%0A%E6%9D%90%E6%96%99%E8%88%87%E7%B4%B0%E7%AF%80%EF%BC%9A%0A%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%EF%BC%9A%0A-%20%E5%BC%B7%E8%AA%BF%E9%87%8D%E7%A3%85%E8%97%9D%E8%A1%93%E7%B4%99%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%84%9F%EF%BC%9A%E7%B4%B0%E8%86%A9%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%81%E8%BC%95%E5%BE%AE%E5%8F%AF%E8%A6%8B%E7%9A%84%E7%BA%96%E7%B6%AD%E3%80%81%E6%B8%85%E6%99%B0%E9%8A%B3%E5%88%A9%E7%9A%84%E5%88%87%E5%89%B2%E9%82%8A%E7%B7%A3%E5%92%8C%E5%8F%AF%E8%A6%8B%E7%9A%84%E5%8E%9A%E5%BA%A6%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%85%89%E7%B7%9A%E5%83%8F%E7%9C%9F%E5%AF%A6%E7%BA%96%E7%B6%AD%E6%9D%90%E6%96%99%E4%B8%80%E6%A8%A3%E6%9F%94%E5%92%8C%E5%9C%B0%E7%A9%BF%E9%80%8F%E7%B4%99%E5%BC%B5%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%A1%91%E8%86%A0%E6%88%96%E9%87%91%E5%B1%AC%E3%80%82%0A%0A%E5%AF%A6%E9%AB%94%E7%87%88%E7%AE%B1%E6%94%9D%E5%BD%B1%E6%84%9F%EF%BC%9A%0A-%20%E5%B0%87%E5%9C%96%E5%83%8F%E5%91%88%E7%8F%BE%E7%82%BA%E7%9C%9F%E5%AF%A6%E7%87%88%E7%AE%B1%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%95%AB%E6%88%96%E5%90%91%E9%87%8F%E5%9C%96%E3%80%82%E6%82%A8%E5%8F%AF%E4%BB%A5%E9%9A%B1%E7%B4%84%E9%A1%AF%E7%A4%BA%E7%87%88%E7%AE%B1%E6%A1%86%E6%9E%B6%EF%BC%88%E7%B0%A1%E6%BD%94%E7%9A%84%E7%99%BD%E8%89%B2%E6%88%96%E6%B7%BA%E6%9C%A8%E8%89%B2%EF%BC%89%E5%92%8C%E7%95%A5%E5%BE%AE%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%A1%8C%E9%9D%A2%E6%88%96%E7%92%B0%E5%A2%83%E3%80%82%0A-%20%E5%85%89%E7%B7%9A%E6%87%89%E6%84%9F%E8%A6%BA%E8%87%AA%E7%84%B6%EF%BC%8C%E5%85%B7%E6%9C%89%E7%9C%9F%E5%AF%A6%E9%8F%A1%E9%A0%AD%E7%9A%84%E6%99%AF%E6%B7%B1%EF%BC%9A%E5%89%8D%E6%99%AF%E7%95%A5%E5%BE%AE%E6%A8%A1%E7%B3%8A%EF%BC%8C%E4%B8%AD%E6%99%AF%E4%B8%BB%E9%AB%94%E6%B8%85%E6%99%B0%EF%BC%8C%E8%83%8C%E6%99%AF%E6%9F%94%E5%92%8C%E3%80%82%0A%0A%E7%B4%B0%E7%AF%80%E8%A3%9D%E9%A3%BE%EF%BC%9A%0A-%20%E6%82%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%B4%99%E5%B1%A4%E4%B9%8B%E9%96%93%E6%B7%BB%E5%8A%A0%E5%B0%91%E9%87%8F%E5%BE%AE%E5%B0%8F%E7%9A%84%E6%BC%82%E6%B5%AE%E5%85%83%E7%B4%A0%E4%BB%A5%E5%A2%9E%E5%BC%B7%E7%A9%BA%E9%96%93%E6%84%9F%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%BE%AE%E5%B0%8F%E7%9A%84%E7%99%BC%E5%85%89%E9%BB%9E%E3%80%81%E5%A1%B5%E5%9F%83%E3%80%81%E9%9B%AA%E8%8A%B1%E3%80%81%E6%B0%A3%E6%B3%A1%E6%88%96%E5%85%B6%E4%BB%96%E8%88%87%E4%B8%BB%E9%A1%8C%E7%9B%B8%E9%97%9C%E7%9A%84%E5%B0%8F%E9%A1%86%E7%B2%92%E3%80%82%E5%AE%83%E5%80%91%E7%9A%84%E6%95%B8%E9%87%8F%E5%BF%85%E9%A0%88%E6%9C%89%E6%89%80%E9%99%90%E5%88%B6%EF%BC%8C%E4%BD%BF%E5%85%B6%E5%83%85%E5%A2%9E%E5%BC%B7%E6%B0%9B%E5%9C%8D%E5%92%8C%E6%B7%B1%E5%BA%A6%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%9C%83%E9%9B%9C%E4%BA%82%E6%88%96%E7%A0%B4%E5%A3%9E%E5%89%AA%E5%BD%B1%E7%B5%90%E6%A7%8B%E3%80%82%0A%0A%E6%8A%80%E8%A1%93%E5%8F%83%E6%95%B8%EF%BC%9A%E5%9E%82%E7%9B%B4%203%3A4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E8%BC%B8%E5%87%BA%E3%80%82)**
+
+---
+
+### No. 13: 馬拉加街頭咖啡館的 iPhone 超逼真場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1157,7 +1437,7 @@ ISO：400
 
 ---
 
-### No. 11: 電影般的特寫肖像，綠色眼睛，身穿針織毛衣
+### No. 14: 電影般的特寫肖像，綠色眼睛，身穿針織毛衣
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1190,7 +1470,7 @@ ISO：400
 
 ---
 
-### No. 12: GoPro 風格極限運動自拍提示
+### No. 15: GoPro 風格極限運動自拍提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1229,7 +1509,7 @@ ISO：400
 
 ---
 
-### No. 13: 巴黎瑪黑區咖啡館露台人像提示
+### No. 16: 巴黎瑪黑區咖啡館露台人像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1269,7 +1549,7 @@ ISO：400
 
 ---
 
-### No. 14: 穿著棕色迷你裙的優雅女士肖像提示
+### No. 17: 穿著棕色迷你裙的優雅女士肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1310,7 +1590,7 @@ ISO：400
 
 ---
 
-### No. 15: 黃金時段屋頂人像攝影提示
+### No. 18: 黃金時段屋頂人像攝影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1349,7 +1629,7 @@ ISO：400
 
 ---
 
-### No. 16: Nano Banana Pro 撕紙風格轉換編輯提示
+### No. 19: Nano Banana Pro 撕紙風格轉換編輯提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1465,7 +1745,7 @@ interior_style:
 
 ---
 
-### No. 17: Nano Banana Pro 迷因風格服裝剪裁線條插畫提示
+### No. 20: Nano Banana Pro 迷因風格服裝剪裁線條插畫提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1535,7 +1815,7 @@ interior_style:
 
 ---
 
-### No. 18: Nano Banana Pro 的雪花球角色插圖提示
+### No. 21: Nano Banana Pro 的雪花球角色插圖提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1595,7 +1875,7 @@ interior_style:
 
 ---
 
-### No. 19: Nano Banana Pro 的法線貼圖和深度貼圖生成提示
+### No. 22: Nano Banana Pro 的法線貼圖和深度貼圖生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1654,7 +1934,7 @@ interior_style:
 
 ---
 
-### No. 20: 簡單的相片放大與修復提示
+### No. 23: 簡單的相片放大與修復提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1693,7 +1973,7 @@ interior_style:
 
 ---
 
-### No. 21: 適用於 NotebookLM 的簡潔扁平投影片設計風格指南
+### No. 24: 適用於 NotebookLM 的簡潔扁平投影片設計風格指南
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1750,7 +2030,7 @@ interior_style:
 
 ---
 
-### No. 22: 為時尚年輕女性設計的鏡面自拍幻燈片提示
+### No. 25: 為時尚年輕女性設計的鏡面自拍幻燈片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1850,7 +2130,7 @@ interior_style:
 
 ---
 
-### No. 23: 卡通無人機風格的 Google 地圖空拍圖插畫提示
+### No. 26: 卡通無人機風格的 Google 地圖空拍圖插畫提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1889,7 +2169,7 @@ interior_style:
 
 ---
 
-### No. 24: 在昏暗房間裡，一位年輕女性的低角度風格化肖像
+### No. 27: 在昏暗房間裡，一位年輕女性的低角度風格化肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1984,7 +2264,7 @@ interior_style:
 
 ---
 
-### No. 25: 一位在毯子上發呆的女孩的超逼真 16K 自拍照編輯
+### No. 28: 一位在毯子上發呆的女孩的超逼真 16K 自拍照編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2018,7 +2298,7 @@ interior_style:
 
 ---
 
-### No. 26: 高度細緻的 8K 清晨靜物書桌場景提示
+### No. 29: 高度細緻的 8K 清晨靜物書桌場景提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2062,7 +2342,7 @@ interior_style:
 
 ---
 
-### No. 27: 男性主體的攝影棚肖像參數風格提示
+### No. 30: 男性主體的攝影棚肖像參數風格提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2127,7 +2407,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 28: 東京快閃地圖場景的產品攝影提示
+### No. 31: 東京快閃地圖場景的產品攝影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2161,7 +2441,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 29: 用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本
+### No. 32: 用於超逼真 iPhone 風格 AI 網紅的系統 JSON 提示範本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2269,7 +2549,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 30: JSON Nano Banana Pro 提示，適用於蒸汽龐克植物學家工作台
+### No. 33: JSON Nano Banana Pro 提示，適用於蒸汽龐克植物學家工作台
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2319,7 +2599,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 31: 蔬菜字母挑戰提示
+### No. 34: 蔬菜字母挑戰提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2353,7 +2633,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 32: 為年輕女性打造時尚街頭服飾肖像的結構化 JSON 提示
+### No. 35: 為年輕女性打造時尚街頭服飾肖像的結構化 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2426,7 +2706,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 33: 3D 迷你 Q 版旅遊景點概念提示
+### No. 36: 3D 迷你 Q 版旅遊景點概念提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2478,7 +2758,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 34: 3D Q 版概念店品牌提示
+### No. 37: 3D Q 版概念店品牌提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2791,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 35: 將參考圖像變成逼真的聖誕蛋糕
+### No. 38: 將參考圖像變成逼真的聖誕蛋糕
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2556,7 +2836,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 36: 電影風格湖畔吊椅概念提示，搭配太空物體主題
+### No. 39: 電影風格湖畔吊椅概念提示，搭配太空物體主題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2608,7 +2888,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 37: 自然 Instagram 風格的車內自拍提示
+### No. 40: 自然 Instagram 風格的車內自拍提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2656,7 +2936,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 38: 黎明時分的巨型戰艦插畫提示
+### No. 41: 黎明時分的巨型戰艦插畫提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2689,7 +2969,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 39: 單色背景上的 3D 浮雕品牌標誌
+### No. 42: 單色背景上的 3D 浮雕品牌標誌
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2731,7 +3011,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 40: JSON 風格的 Nano Banana Pro 提示，用於生成逼真臉孔
+### No. 43: JSON 風格的 Nano Banana Pro 提示，用於生成逼真臉孔
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2799,7 +3079,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 41: 簡單的籃中葡萄圖片提示
+### No. 44: 簡單的籃中葡萄圖片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2839,7 +3119,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 42: 橄欖油社群媒體貼文生成提示
+### No. 45: 橄欖油社群媒體貼文生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2873,7 +3153,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 43: 3D Q 版迷你模型品牌概念店提示
+### No. 46: 3D Q 版迷你模型品牌概念店提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2925,7 +3205,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 44: Nano Banana Pro 的廣告替換與品牌調適提示
+### No. 47: Nano Banana Pro 的廣告替換與品牌調適提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2983,7 +3263,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 45: 使用 Nano Banana Pro 中的參考臉孔與電影角色自拍
+### No. 48: 使用 Nano Banana Pro 中的參考臉孔與電影角色自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3037,7 +3317,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 46: Nano Banana Pro 的著色本線稿提示
+### No. 49: Nano Banana Pro 的著色本線稿提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3089,7 +3369,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 47: 哥倫比亞佩雷拉舊書中的中世紀冬季場景
+### No. 50: 哥倫比亞佩雷拉舊書中的中世紀冬季場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3125,7 +3405,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 48: Rorona 風格固定角色提示，適用於 Nano Banana Pro / Gemini
+### No. 51: Rorona 風格固定角色提示，適用於 Nano Banana Pro / Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3169,7 +3449,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 49: 城市最高建築 3D 卡通展示提示
+### No. 52: 城市最高建築 3D 卡通展示提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3218,7 +3498,64 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 50: 歷史名人自拍場景提示（麥可·傑克森 和 小布希）
+### No. 53: 二十世紀中葉戰地攝影報導風格框架
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個中文提示框架，用於生成粗獷、寫實的 20 世紀中葉戰地新聞攝影風格圖像，這些圖像感覺像是在壓力下拍攝的偷拍照片，強調真實性而非電影般的完美。
+
+#### 📝 提示詞
+
+```
+[指令：根據以下結構化描述，生成一張真實的紀實攝影圖像。]
+
+視覺風格：20 世紀中葉戰地新聞攝影（1940–1970 年）——原始且未經擺拍。
+
+1. 核心主題（具體微觀敘事）
+{argument name="core scene" default="一名滿身泥濘的醫護兵在下雨的戰壕中為一名士兵包紮手臂，醫護兵看起來筋疲力盡，前景被鐵絲網遮擋"}
+
+2. 美學特徵（反電影手法）
+攝影風格定義：
+這張照片絕不能看起來像精心打光的電影劇照。它必須像是在極端壓力和危險下，由戰地攝影師捕捉到的原始、甚至略微模糊的瞬間。構圖應感覺是偶然的、混亂的、略微失衡或不完美的。優先考慮絕對的真實性，而非完美的構圖。
+
+光線與氛圍：
+避免過於戲劇化、舞台化、完美佈置的光線。使用現場可用的任何光線（通常很差）：平淡而壓抑的陰天漫射光、昏暗閃爍的室內光，或產生生硬、難看陰影的刺眼直射閃光。氛圍應感覺粗糙、骯髒、令人窒息的沉浸感。
+
+3. 物理質感（膠片寫實主義）
+物理特性：
+模擬經過增感沖洗的高速、粗顆粒黑白膠片。
+* 對焦與模糊：由於混亂、緊張的環境，主體可能略微失焦、柔和或晃動。移動中的人物或物體必須顯示明顯的動態模糊，以反映被迫使用慢速快門。
+* 顆粒：整個圖像覆蓋著厚重、有機的鹵化銀膠片顆粒。避免後期添加人工刮痕或邊框；專注於膠片本身的粗糙物質感。
+
+4. 技術限制
+* 色彩模式：單色黑白。
+* 鏡頭語言：35mm 廣角定焦鏡頭（經典報導視角，包含更多環境資訊）。
+* 時代準確性：嚴格符合 1940 年代至 1970 年代的時間線（服裝、武器、環境細節）。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764915829879_deehgi_G7GFjZibwAANCmQ.jpg" width="600" alt="二十世紀中葉戰地攝影報導風格框架 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [VoxcatAI](https://x.com/VoxcatAI)
+- **來源:** [Twitter Post](https://x.com/VoxcatAI/status/1995522961596719299)
+- **發布時間:** 2025年12月1日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%5B%E6%8C%87%E4%BB%A4%EF%BC%9A%E6%A0%B9%E6%93%9A%E4%BB%A5%E4%B8%8B%E7%B5%90%E6%A7%8B%E5%8C%96%E6%8F%8F%E8%BF%B0%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%B4%80%E5%AF%A6%E6%94%9D%E5%BD%B1%E5%9C%96%E5%83%8F%E3%80%82%5D%0A%0A%E8%A6%96%E8%A6%BA%E9%A2%A8%E6%A0%BC%EF%BC%9A20%20%E4%B8%96%E7%B4%80%E4%B8%AD%E8%91%89%E6%88%B0%E5%9C%B0%E6%96%B0%E8%81%9E%E6%94%9D%E5%BD%B1%EF%BC%881940%E2%80%931970%20%E5%B9%B4%EF%BC%89%E2%80%94%E2%80%94%E5%8E%9F%E5%A7%8B%E4%B8%94%E6%9C%AA%E7%B6%93%E6%93%BA%E6%8B%8D%E3%80%82%0A%0A1.%20%E6%A0%B8%E5%BF%83%E4%B8%BB%E9%A1%8C%EF%BC%88%E5%85%B7%E9%AB%94%E5%BE%AE%E8%A7%80%E6%95%98%E4%BA%8B%EF%BC%89%0A%7Bargument%20name%3D%22core%20scene%22%20default%3D%22%E4%B8%80%E5%90%8D%E6%BB%BF%E8%BA%AB%E6%B3%A5%E6%BF%98%E7%9A%84%E9%86%AB%E8%AD%B7%E5%85%B5%E5%9C%A8%E4%B8%8B%E9%9B%A8%E7%9A%84%E6%88%B0%E5%A3%95%E4%B8%AD%E7%82%BA%E4%B8%80%E5%90%8D%E5%A3%AB%E5%85%B5%E5%8C%85%E7%B4%AE%E6%89%8B%E8%87%82%EF%BC%8C%E9%86%AB%E8%AD%B7%E5%85%B5%E7%9C%8B%E8%B5%B7%E4%BE%86%E7%AD%8B%E7%96%B2%E5%8A%9B%E7%9B%A1%EF%BC%8C%E5%89%8D%E6%99%AF%E8%A2%AB%E9%90%B5%E7%B5%B2%E7%B6%B2%E9%81%AE%E6%93%8B%22%7D%0A%0A2.%20%E7%BE%8E%E5%AD%B8%E7%89%B9%E5%BE%B5%EF%BC%88%E5%8F%8D%E9%9B%BB%E5%BD%B1%E6%89%8B%E6%B3%95%EF%BC%89%0A%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%E5%AE%9A%E7%BE%A9%EF%BC%9A%0A%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%E7%B5%95%E4%B8%8D%E8%83%BD%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E7%B2%BE%E5%BF%83%E6%89%93%E5%85%89%E7%9A%84%E9%9B%BB%E5%BD%B1%E5%8A%87%E7%85%A7%E3%80%82%E5%AE%83%E5%BF%85%E9%A0%88%E5%83%8F%E6%98%AF%E5%9C%A8%E6%A5%B5%E7%AB%AF%E5%A3%93%E5%8A%9B%E5%92%8C%E5%8D%B1%E9%9A%AA%E4%B8%8B%EF%BC%8C%E7%94%B1%E6%88%B0%E5%9C%B0%E6%94%9D%E5%BD%B1%E5%B8%AB%E6%8D%95%E6%8D%89%E5%88%B0%E7%9A%84%E5%8E%9F%E5%A7%8B%E3%80%81%E7%94%9A%E8%87%B3%E7%95%A5%E5%BE%AE%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%9E%AC%E9%96%93%E3%80%82%E6%A7%8B%E5%9C%96%E6%87%89%E6%84%9F%E8%A6%BA%E6%98%AF%E5%81%B6%E7%84%B6%E7%9A%84%E3%80%81%E6%B7%B7%E4%BA%82%E7%9A%84%E3%80%81%E7%95%A5%E5%BE%AE%E5%A4%B1%E8%A1%A1%E6%88%96%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E3%80%82%E5%84%AA%E5%85%88%E8%80%83%E6%85%AE%E7%B5%95%E5%B0%8D%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%80%A7%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E5%85%89%E7%B7%9A%E8%88%87%E6%B0%9B%E5%9C%8D%EF%BC%9A%0A%E9%81%BF%E5%85%8D%E9%81%8E%E6%96%BC%E6%88%B2%E5%8A%87%E5%8C%96%E3%80%81%E8%88%9E%E5%8F%B0%E5%8C%96%E3%80%81%E5%AE%8C%E7%BE%8E%E4%BD%88%E7%BD%AE%E7%9A%84%E5%85%89%E7%B7%9A%E3%80%82%E4%BD%BF%E7%94%A8%E7%8F%BE%E5%A0%B4%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BB%BB%E4%BD%95%E5%85%89%E7%B7%9A%EF%BC%88%E9%80%9A%E5%B8%B8%E5%BE%88%E5%B7%AE%EF%BC%89%EF%BC%9A%E5%B9%B3%E6%B7%A1%E8%80%8C%E5%A3%93%E6%8A%91%E7%9A%84%E9%99%B0%E5%A4%A9%E6%BC%AB%E5%B0%84%E5%85%89%E3%80%81%E6%98%8F%E6%9A%97%E9%96%83%E7%88%8D%E7%9A%84%E5%AE%A4%E5%85%A7%E5%85%89%EF%BC%8C%E6%88%96%E7%94%A2%E7%94%9F%E7%94%9F%E7%A1%AC%E3%80%81%E9%9B%A3%E7%9C%8B%E9%99%B0%E5%BD%B1%E7%9A%84%E5%88%BA%E7%9C%BC%E7%9B%B4%E5%B0%84%E9%96%83%E5%85%89%E3%80%82%E6%B0%9B%E5%9C%8D%E6%87%89%E6%84%9F%E8%A6%BA%E7%B2%97%E7%B3%99%E3%80%81%E9%AA%AF%E9%AB%92%E3%80%81%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%9A%84%E6%B2%89%E6%B5%B8%E6%84%9F%E3%80%82%0A%0A3.%20%E7%89%A9%E7%90%86%E8%B3%AA%E6%84%9F%EF%BC%88%E8%86%A0%E7%89%87%E5%AF%AB%E5%AF%A6%E4%B8%BB%E7%BE%A9%EF%BC%89%0A%E7%89%A9%E7%90%86%E7%89%B9%E6%80%A7%EF%BC%9A%0A%E6%A8%A1%E6%93%AC%E7%B6%93%E9%81%8E%E5%A2%9E%E6%84%9F%E6%B2%96%E6%B4%97%E7%9A%84%E9%AB%98%E9%80%9F%E3%80%81%E7%B2%97%E9%A1%86%E7%B2%92%E9%BB%91%E7%99%BD%E8%86%A0%E7%89%87%E3%80%82%0A*%20%E5%B0%8D%E7%84%A6%E8%88%87%E6%A8%A1%E7%B3%8A%EF%BC%9A%E7%94%B1%E6%96%BC%E6%B7%B7%E4%BA%82%E3%80%81%E7%B7%8A%E5%BC%B5%E7%9A%84%E7%92%B0%E5%A2%83%EF%BC%8C%E4%B8%BB%E9%AB%94%E5%8F%AF%E8%83%BD%E7%95%A5%E5%BE%AE%E5%A4%B1%E7%84%A6%E3%80%81%E6%9F%94%E5%92%8C%E6%88%96%E6%99%83%E5%8B%95%E3%80%82%E7%A7%BB%E5%8B%95%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E6%88%96%E7%89%A9%E9%AB%94%E5%BF%85%E9%A0%88%E9%A1%AF%E7%A4%BA%E6%98%8E%E9%A1%AF%E7%9A%84%E5%8B%95%E6%85%8B%E6%A8%A1%E7%B3%8A%EF%BC%8C%E4%BB%A5%E5%8F%8D%E6%98%A0%E8%A2%AB%E8%BF%AB%E4%BD%BF%E7%94%A8%E6%85%A2%E9%80%9F%E5%BF%AB%E9%96%80%E3%80%82%0A*%20%E9%A1%86%E7%B2%92%EF%BC%9A%E6%95%B4%E5%80%8B%E5%9C%96%E5%83%8F%E8%A6%86%E8%93%8B%E8%91%97%E5%8E%9A%E9%87%8D%E3%80%81%E6%9C%89%E6%A9%9F%E7%9A%84%E9%B9%B5%E5%8C%96%E9%8A%80%E8%86%A0%E7%89%87%E9%A1%86%E7%B2%92%E3%80%82%E9%81%BF%E5%85%8D%E5%BE%8C%E6%9C%9F%E6%B7%BB%E5%8A%A0%E4%BA%BA%E5%B7%A5%E5%88%AE%E7%97%95%E6%88%96%E9%82%8A%E6%A1%86%EF%BC%9B%E5%B0%88%E6%B3%A8%E6%96%BC%E8%86%A0%E7%89%87%E6%9C%AC%E8%BA%AB%E7%9A%84%E7%B2%97%E7%B3%99%E7%89%A9%E8%B3%AA%E6%84%9F%E3%80%82%0A%0A4.%20%E6%8A%80%E8%A1%93%E9%99%90%E5%88%B6%0A*%20%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%BC%8F%EF%BC%9A%E5%96%AE%E8%89%B2%E9%BB%91%E7%99%BD%E3%80%82%0A*%20%E9%8F%A1%E9%A0%AD%E8%AA%9E%E8%A8%80%EF%BC%9A35mm%20%E5%BB%A3%E8%A7%92%E5%AE%9A%E7%84%A6%E9%8F%A1%E9%A0%AD%EF%BC%88%E7%B6%93%E5%85%B8%E5%A0%B1%E5%B0%8E%E8%A6%96%E8%A7%92%EF%BC%8C%E5%8C%85%E5%90%AB%E6%9B%B4%E5%A4%9A%E7%92%B0%E5%A2%83%E8%B3%87%E8%A8%8A%EF%BC%89%E3%80%82%0A*%20%E6%99%82%E4%BB%A3%E6%BA%96%E7%A2%BA%E6%80%A7%EF%BC%9A%E5%9A%B4%E6%A0%BC%E7%AC%A6%E5%90%88%201940%20%E5%B9%B4%E4%BB%A3%E8%87%B3%201970%20%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%99%82%E9%96%93%E7%B7%9A%EF%BC%88%E6%9C%8D%E8%A3%9D%E3%80%81%E6%AD%A6%E5%99%A8%E3%80%81%E7%92%B0%E5%A2%83%E7%B4%B0%E7%AF%80%EF%BC%89%E3%80%82)**
+
+---
+
+### No. 54: 歷史名人自拍場景提示（麥可·傑克森 和 小布希）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3252,7 +3589,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 51: Nano Banana Pro 的九宮格 Instagram 人像變體提示
+### No. 55: Nano Banana Pro 的九宮格 Instagram 人像變體提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3292,7 +3629,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 52: Nano Banana Pro 的 JSON 自拍臥床提示
+### No. 56: Nano Banana Pro 的 JSON 自拍臥床提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3383,7 +3720,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 53: 爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」
+### No. 57: 爆紅縮圖：興奮地指著、酪梨吐司、「3 分鐘搞定！」
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3429,7 +3766,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 54: Nano Banana Pro 的咖啡廳約會 POV 個人資料照片提示
+### No. 58: Nano Banana Pro 的咖啡廳約會 POV 個人資料照片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3523,7 +3860,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 55: 適用於 Nano Banana Pro 的 JSON 車內自拍鏡提示
+### No. 59: 適用於 Nano Banana Pro 的 JSON 車內自拍鏡提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3591,7 +3928,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 56: 適用於 Nano Banana Pro 的簡約沉思碼頭場景提示
+### No. 60: 適用於 Nano Banana Pro 的簡約沉思碼頭場景提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3625,7 +3962,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 57: Nano Banana Pro 的聖人與惡魔雙重角色提示
+### No. 61: Nano Banana Pro 的聖人與惡魔雙重角色提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3675,7 +4012,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 58: Nano Banana Pro 的季節森林拼貼角色提示
+### No. 62: Nano Banana Pro 的季節森林拼貼角色提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3709,7 +4046,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 59: Nano Banana Pro 的九宮格日式相簿排版提示
+### No. 63: Nano Banana Pro 的九宮格日式相簿排版提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3761,7 +4098,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 60: 使用 Nano Banana Pro 從 3x3 圖像網格中提取單個面板
+### No. 64: 使用 Nano Banana Pro 從 3x3 圖像網格中提取單個面板
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3807,7 +4144,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 61: 直閃玩家女孩 Nano Banana Pro JSON 標籤提示
+### No. 65: 直閃玩家女孩 Nano Banana Pro JSON 標籤提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3859,7 +4196,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 62: 兩步驟 Nano Banana Pro 影像優化提示
+### No. 66: 兩步驟 Nano Banana Pro 影像優化提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3901,7 +4238,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 63: 12 張圖片的 Instagram 動態貼文角色美學提示
+### No. 67: 12 張圖片的 Instagram 動態貼文角色美學提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3941,7 +4278,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 64: 臥室寫實肖像提示結構
+### No. 68: 臥室寫實肖像提示結構
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3974,7 +4311,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 65: Nano Banana Pro 的電影感臥室自拍提示
+### No. 69: Nano Banana Pro 的電影感臥室自拍提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4034,7 +4371,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 66: Nano Banana Pro 的毛氈玩具角色提示
+### No. 70: Nano Banana Pro 的毛氈玩具角色提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4088,7 +4425,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 67: 水墨畫孤舟提示詞，適用於 Nano Banana Pro
+### No. 71: 水墨畫孤舟提示詞，適用於 Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4122,7 +4459,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 68: 中學生在歷史課本頁面塗鴉
+### No. 72: 中學生在歷史課本頁面塗鴉
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4173,7 +4510,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 69: 電影般的雨中都市場景 JSON 提示
+### No. 73: 電影般的雨中都市場景 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4212,7 +4549,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 70: 從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表
+### No. 74: 從單一輸入圖像生成 3×3 電影分鏡腳本聯絡表
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4291,7 +4628,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 71: Nano Banana Pro 專業個人檔案照片提示
+### No. 75: Nano Banana Pro 專業個人檔案照片提示
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4331,7 +4668,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 72: YAML 提示詞轉換，適用於圖像和圖表
+### No. 76: YAML 提示詞轉換，適用於圖像和圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4364,7 +4701,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 73: 參考匹配的女性肖像 JSON 提示
+### No. 77: 參考匹配的女性肖像 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4405,7 +4742,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 74: 豪華海濱飯店露台肖像提示
+### No. 78: 豪華海濱飯店露台肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4507,7 +4844,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 75: 舊照片修復成現代數位肖像
+### No. 79: 舊照片修復成現代數位肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4558,7 +4895,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 76: 從圖片產生黑白故事板
+### No. 80: 從圖片產生黑白故事板
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4599,7 +4936,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 77: 使用參考人物的 Cheki 風格偶像照片提示
+### No. 81: 使用參考人物的 Cheki 風格偶像照片提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4651,7 +4988,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 78: Glassmorphism SaaS 風格的 PPT 設計提示，適用於 Nano Banana Pro
+### No. 82: Glassmorphism SaaS 風格的 PPT 設計提示，適用於 Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4698,7 +5035,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 79: 風吹髮絲物理效果編輯提示
+### No. 83: 風吹髮絲物理效果編輯提示
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4749,7 +5086,7 @@ Nano Banana Pro 的簡單兩步驟工作流程提示：首先生成一張具有�
 
 ---
 
-### No. 80: 能量場屏障 VFX 和姿勢調整 YAML 提示
+### No. 84: 能量場屏障 VFX 和姿勢調整 YAML 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4868,7 +5205,7 @@ composition:
 
 ---
 
-### No. 81: 產品草圖到最終渲染提示
+### No. 85: 產品草圖到最終渲染提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4901,7 +5238,7 @@ composition:
 
 ---
 
-### No. 82: Nano Banana Pro 的垂直超高細節影像設定
+### No. 86: Nano Banana Pro 的垂直超高細節影像設定
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4954,7 +5291,7 @@ composition:
 
 ---
 
-### No. 83: 帶有微小文字測試提示的包裝模型
+### No. 87: 帶有微小文字測試提示的包裝模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4987,7 +5324,7 @@ composition:
 
 ---
 
-### No. 84: 嚴格的寫實主義限制促使 Nano Banana Pro 的誕生
+### No. 88: 嚴格的寫實主義限制促使 Nano Banana Pro 的誕生
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5033,7 +5370,7 @@ composition:
 
 ---
 
-### No. 85: 讓照片在指定的 GPS 座標下看起來很糟糕
+### No. 89: 讓照片在指定的 GPS 座標下看起來很糟糕
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5085,7 +5422,7 @@ composition:
 
 ---
 
-### No. 86: 根據給定的角色和故事，繪製萌系全彩漫畫
+### No. 90: 根據給定的角色和故事，繪製萌系全彩漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5139,7 +5476,7 @@ composition:
 
 ---
 
-### No. 87: 低品質即棄相機高中快照提示
+### No. 91: 低品質即棄相機高中快照提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5190,7 +5527,7 @@ composition:
 
 ---
 
-### No. 88: 將攤位草圖轉換為透視圖
+### No. 92: 將攤位草圖轉換為透視圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5229,7 +5566,7 @@ composition:
 
 ---
 
-### No. 89: 一位女性在瑜珈墊上自拍，為 Nano Banana Pro 拍攝肖像照
+### No. 93: 一位女性在瑜珈墊上自拍，為 Nano Banana Pro 拍攝肖像照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5330,7 +5667,7 @@ composition:
 
 ---
 
-### No. 90: 使用您的產品和品牌美學來重新創作廣告提示
+### No. 94: 使用您的產品和品牌美學來重新創作廣告提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5372,7 +5709,7 @@ composition:
 
 ---
 
-### No. 91: Y2K 閃光夜車情侶肖像提示
+### No. 95: Y2K 閃光夜車情侶肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5450,7 +5787,7 @@ composition:
 
 ---
 
-### No. 92: 單張圖片生成橫向三格情緒肖像
+### No. 96: 單張圖片生成橫向三格情緒肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5507,7 +5844,7 @@ composition:
 
 ---
 
-### No. 93: Anthropic 風格的溫暖學術 PPT 工作流程提示
+### No. 97: Anthropic 風格的溫暖學術 PPT 工作流程提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5553,7 +5890,7 @@ composition:
 
 ---
 
-### No. 94: Nano Banana Pro 的證件照生成提示
+### No. 98: Nano Banana Pro 的證件照生成提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5603,7 +5940,7 @@ composition:
 
 ---
 
-### No. 95: 復古拍立得拼貼肖像提示
+### No. 99: 復古拍立得拼貼肖像提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5645,7 +5982,7 @@ composition:
 
 ---
 
-### No. 96: 特定座標的歷史時刻 (1994)
+### No. 100: 特定座標的歷史時刻 (1994)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5679,7 +6016,7 @@ composition:
 
 ---
 
-### No. 97: 給孩子們看的黏土動畫日相圖資訊圖表
+### No. 101: 給孩子們看的黏土動畫日相圖資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5713,7 +6050,7 @@ composition:
 
 ---
 
-### No. 98: F1 VIP 粉絲超逼真自拍編輯
+### No. 102: F1 VIP 粉絲超逼真自拍編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5784,7 +6121,7 @@ composition:
 
 ---
 
-### No. 99: LINE 風格 Q 版頭像九宮格
+### No. 103: LINE 風格 Q 版頭像九宮格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5835,7 +6172,7 @@ composition:
 
 ---
 
-### No. 100: 帶有座標和日期的時光旅行場景
+### No. 104: 帶有座標和日期的時光旅行場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5869,7 +6206,7 @@ composition:
 
 ---
 
-### No. 101: 手繪等距地標示意圖
+### No. 105: 手繪等距地標示意圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5903,7 +6240,7 @@ composition:
 
 ---
 
-### No. 102: 一名女性的電影式黑白肖像
+### No. 106: 一名女性的電影式黑白肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5942,7 +6279,7 @@ composition:
 
 ---
 
-### No. 103: 冰箱掃描食譜資訊圖表
+### No. 107: 冰箱掃描食譜資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5982,7 +6319,7 @@ composition:
 
 ---
 
-### No. 104: Knolling 風格的爆炸式平面擺拍照片
+### No. 108: Knolling 風格的爆炸式平面擺拍照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6016,7 +6353,7 @@ composition:
 
 ---
 
-### No. 105: 法拉利提示詞下的夜間街頭寫實人像
+### No. 109: 法拉利提示詞下的夜間街頭寫實人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6115,7 +6452,7 @@ composition:
 
 ---
 
-### No. 106: 年輕男子在瑞士阿爾卑斯山冬季的肖像
+### No. 110: 年輕男子在瑞士阿爾卑斯山冬季的肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6158,7 +6495,7 @@ composition:
 
 ---
 
-### No. 107: 漫威風格的女英雄漫畫分鏡圖
+### No. 111: 漫威風格的女英雄漫畫分鏡圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6197,7 +6534,7 @@ composition:
 
 ---
 
-### No. 108: 根據參考照片製作的電影感屋頂肖像
+### No. 112: 根據參考照片製作的電影感屋頂肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6236,7 +6573,7 @@ composition:
 
 ---
 
-### No. 109: 現有圖像的卡通版本
+### No. 113: 現有圖像的卡通版本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6269,7 +6606,7 @@ composition:
 
 ---
 
-### No. 110: 裝置的技術分解圖
+### No. 114: 裝置的技術分解圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6303,7 +6640,7 @@ composition:
 
 ---
 
-### No. 111: 未來感十足的臉部年齡檢查器資訊圖表肖像
+### No. 115: 未來感十足的臉部年齡檢查器資訊圖表肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6362,7 +6699,7 @@ composition:
 
 ---
 
-### No. 112: 漫畫風格的中文漫畫分鏡圖產生器
+### No. 116: 漫畫風格的中文漫畫分鏡圖產生器
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6403,7 +6740,7 @@ composition:
 
 ---
 
-### No. 113: 幕後拍攝設定視覺化
+### No. 117: 幕後拍攝設定視覺化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6436,7 +6773,7 @@ composition:
 
 ---
 
-### No. 114: 諸葛連弩的復古工程爆炸圖
+### No. 118: 諸葛連弩的復古工程爆炸圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6470,7 +6807,7 @@ composition:
 
 ---
 
-### No. 115: 復古食譜風格的食譜插畫
+### No. 119: 復古食譜風格的食譜插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6510,7 +6847,7 @@ composition:
 
 ---
 
-### No. 116: IT 產業的電影式多面板序列
+### No. 120: IT 產業的電影式多面板序列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6550,7 +6887,7 @@ composition:
 
 ---
 
-### No. 117: 編輯牛仔布人像，保留臉部識別
+### No. 121: 編輯牛仔布人像，保留臉部識別
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6649,7 +6986,7 @@ composition:
 
 ---
 
-### No. 118: 高對比度、邊緣打光的黑白概念性側面肖像
+### No. 122: 高對比度、邊緣打光的黑白概念性側面肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6700,7 +7037,7 @@ composition:
 
 ---
 
-### No. 119: 兒童蠟筆風格的家庭露營圖畫
+### No. 123: 兒童蠟筆風格的家庭露營圖畫
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6738,7 +7075,7 @@ composition:
 
 ---
 
-### No. 120: 參考影像中的四個攝影機角度網格
+### No. 124: 參考影像中的四個攝影機角度網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6778,7 +7115,7 @@ composition:
 
 ---
 
-### No. 121: 編輯月亮位置並更改繪畫風格
+### No. 125: 編輯月亮位置並更改繪畫風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6817,7 +7154,7 @@ composition:
 
 ---
 
-### No. 122: 在指定座標發生的重大事件
+### No. 126: 在指定座標發生的重大事件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6851,7 +7188,7 @@ composition:
 
 ---
 
-### No. 123: 傑克森實驗室資訊圖表
+### No. 127: 傑克森實驗室資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6885,7 +7222,7 @@ composition:
 
 ---
 
-### No. 124: 依據參考線框圖進行網頁設計
+### No. 128: 依據參考線框圖進行網頁設計
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6918,7 +7255,7 @@ composition:
 
 ---
 
-### No. 125: 可愛長尾山雀 LINE 貼圖組
+### No. 129: 可愛長尾山雀 LINE 貼圖組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6951,7 +7288,7 @@ composition:
 
 ---
 
-### No. 126: 根據照片設計逼真的人物角色表單
+### No. 130: 根據照片設計逼真的人物角色表單
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6989,7 +7326,7 @@ composition:
 
 ---
 
-### No. 127: Google 早期歲月資訊圖表
+### No. 131: Google 早期歲月資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7022,7 +7359,7 @@ composition:
 
 ---
 
-### No. 128: 2D NES 平台遊戲的 Sprite sheet
+### No. 132: 2D NES 平台遊戲的 Sprite sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7055,7 +7392,7 @@ composition:
 
 ---
 
-### No. 129: 塗裝方案比較圖
+### No. 133: 塗裝方案比較圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7100,7 +7437,7 @@ composition:
 
 ---
 
-### No. 130: 根據參考照片和草圖繪製動作場景
+### No. 134: 根據參考照片和草圖繪製動作場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7152,7 +7489,7 @@ composition:
 
 ---
 
-### No. 131: 江戶風格木刻版畫忍者角色
+### No. 135: 江戶風格木刻版畫忍者角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7186,7 +7523,7 @@ composition:
 
 ---
 
-### No. 132: 印尼總統系列寫實照片
+### No. 136: 印尼總統系列寫實照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7226,7 +7563,7 @@ composition:
 
 ---
 
-### No. 133: 透過風格轉換打造 90 年代風格的網站
+### No. 137: 透過風格轉換打造 90 年代風格的網站
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7271,7 +7608,7 @@ composition:
 
 ---
 
-### No. 134: 將 Netflix 螢幕變成西方版本
+### No. 138: 將 Netflix 螢幕變成西方版本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7304,7 +7641,7 @@ composition:
 
 ---
 
-### No. 135: 文章或內容的縮圖設計提示
+### No. 139: 文章或內容的縮圖設計提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7356,7 +7693,7 @@ composition:
 
 ---
 
-### No. 136: 床上散落的衣物
+### No. 140: 床上散落的衣物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7395,7 +7732,7 @@ composition:
 
 ---
 
-### No. 137: 天真塗鴉風格的主題插畫
+### No. 141: 天真塗鴉風格的主題插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7429,7 +7766,7 @@ composition:
 
 ---
 
-### No. 138: 簡單的動作電影場景
+### No. 142: 簡單的動作電影場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7462,7 +7799,7 @@ composition:
 
 ---
 
-### No. 139: 逼真的烤餅（naan bread）雙關語圖片
+### No. 143: 逼真的烤餅（naan bread）雙關語圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7514,7 +7851,7 @@ composition:
 
 ---
 
-### No. 140: 食物照片變身生物風格營養海報
+### No. 144: 食物照片變身生物風格營養海報
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7553,7 +7890,7 @@ composition:
 
 ---
 
-### No. 141: 日本辣妹雜誌校服特輯
+### No. 145: 日本辣妹雜誌校服特輯
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7586,7 +7923,7 @@ composition:
 
 ---
 
-### No. 142: 遊戲王魔法卡文字主題
+### No. 146: 遊戲王魔法卡文字主題
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7626,7 +7963,7 @@ composition:
 
 ---
 
-### No. 143: AI 夥伴從後方擁抱的兩人鏡頭
+### No. 147: AI 夥伴從後方擁抱的兩人鏡頭
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7659,7 +7996,7 @@ composition:
 
 ---
 
-### No. 144: 關於嵌入式工程師困境的四格漫畫
+### No. 148: 關於嵌入式工程師困境的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7698,7 +8035,7 @@ composition:
 
 ---
 
-### No. 145: 夏爾中的威利在哪裡風格《魔戒》
+### No. 149: 夏爾中的威利在哪裡風格《魔戒》
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7731,7 +8068,7 @@ composition:
 
 ---
 
-### No. 146: 搖滾樂團海報，臉部特徵一致
+### No. 150: 搖滾樂團海報，臉部特徵一致
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7771,158 +8108,13 @@ composition:
 
 ---
 
-### No. 147: 黑白硬漢 LINE 貼圖
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-根據附上的角色圖片，製作 16 個黑白 LINE 貼圖，附上適合硬漢的酷炫短語。
-
-#### 📝 提示詞
-
-```
-請使用附件圖片中的角色，製作 16 款黑白 LINE 貼圖。貼圖類型應多樣化，並包含硬漢會想使用的帥氣短語。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg" width="600" alt="黑白硬漢 LINE 貼圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [てぃなの＠GPTs好きすぎる人](https://x.com/mikochanmonyu)
-- **來源:** [Twitter Post](https://x.com/mikochanmonyu/status/1992154734413926487)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E4%BD%BF%E7%94%A8%E9%99%84%E4%BB%B6%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2%EF%BC%8C%E8%A3%BD%E4%BD%9C%2016%20%E6%AC%BE%E9%BB%91%E7%99%BD%20LINE%20%E8%B2%BC%E5%9C%96%E3%80%82%E8%B2%BC%E5%9C%96%E9%A1%9E%E5%9E%8B%E6%87%89%E5%A4%9A%E6%A8%A3%E5%8C%96%EF%BC%8C%E4%B8%A6%E5%8C%85%E5%90%AB%E7%A1%AC%E6%BC%A2%E6%9C%83%E6%83%B3%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B8%A5%E6%B0%A3%E7%9F%AD%E8%AA%9E%E3%80%82)**
-
----
-
-### No. 148: 詩歌的電影式演繹
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個靈活的提示，要求 AI 創作一幅電影般的插畫，以呈現特定詩歌的情感、隱喻和氛圍。
-
-#### 📝 提示詞
-
-```
-創作一幅電影般的插畫，視覺化呈現以下詩歌，捕捉其情感、隱喻和氛圍：{argument name="poem_en" default="[your poem here]"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg" width="600" alt="詩歌的電影式演繹 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Palak Bansal](https://x.com/PalakBansal_)
-- **來源:** [Twitter Post](https://x.com/PalakBansal_/status/1992152004899246327)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%89%B5%E4%BD%9C%E4%B8%80%E5%B9%85%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E6%8F%92%E7%95%AB%EF%BC%8C%E8%A6%96%E8%A6%BA%E5%8C%96%E5%91%88%E7%8F%BE%E4%BB%A5%E4%B8%8B%E8%A9%A9%E6%AD%8C%EF%BC%8C%E6%8D%95%E6%8D%89%E5%85%B6%E6%83%85%E6%84%9F%E3%80%81%E9%9A%B1%E5%96%BB%E5%92%8C%E6%B0%9B%E5%9C%8D%EF%BC%9A%7Bargument%20name%3D%22poem_en%22%20default%3D%22%5Byour%20poem%20here%5D%22%7D%E3%80%82)**
-
----
-
-### No. 149: 照片上的可愛手寫筆記
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-要求 Nano Banana Pro 在照片上疊加許多可愛的手寫註釋，非常適合活潑的社群貼文或裝飾快照。
-
-#### 📝 提示詞
-
-```
-在照片上寫下並標記盡可能多的可愛手寫筆記！
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg" width="600" alt="照片上的可愛手寫筆記 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [tahi](https://x.com/ai_tahi)
-- **來源:** [Twitter Post](https://x.com/ai_tahi/status/1992149797340615149)
-- **發布時間:** 2025年11月22日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%9C%A8%E7%85%A7%E7%89%87%E4%B8%8A%E5%AF%AB%E4%B8%8B%E4%B8%A6%E6%A8%99%E8%A8%98%E7%9B%A1%E5%8F%AF%E8%83%BD%E5%A4%9A%E7%9A%84%E5%8F%AF%E6%84%9B%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98%EF%BC%81)**
-
----
-
-### No. 150: 衣服分開平鋪在床上
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個簡短的英文提示，用於生成一張圖片，其中女孩的每件衣物都單獨放置在床上。
-
-#### 📝 提示詞
-
-```
-將她的每件衣物分開放在床上。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg" width="600" alt="衣服分開平鋪在床上 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg" width="600" alt="衣服分開平鋪在床上 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg" width="600" alt="衣服分開平鋪在床上 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [CHAO2U AI](https://x.com/CHAO2U_AI)
-- **來源:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992143720171643086)
-- **發布時間:** 2025年11月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%87%E5%A5%B9%E7%9A%84%E6%AF%8F%E4%BB%B6%E8%A1%A3%E7%89%A9%E5%88%86%E9%96%8B%E6%94%BE%E5%9C%A8%E5%BA%8A%E4%B8%8A%E3%80%82)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 460 更多提示詞未在此顯示
+### 🎯 464 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -7985,6 +8177,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-05T05:02:46.751Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-05T08:16:02.824Z</sub>
 
 </div>
