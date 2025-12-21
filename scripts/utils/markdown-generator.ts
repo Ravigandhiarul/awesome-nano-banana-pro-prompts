@@ -162,15 +162,12 @@ function generateGalleryCTA(categories: FilterCategory[], locale: string): strin
   // 根据语言选择图片：zh 和 zh-TW 使用 zh，其他使用 en
   const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
   const coverImage = `public/images/nano-banana-pro-prompts-cover-${imageLang}.png`;
-  const listImage = `public/images/nano-banana-pro-prompts-list-${imageLang}.png`;
 
   let md = `## 🌐 ${t('viewInGallery', locale)}
 
 <div align="center">
 
 ![Cover](${coverImage})
-
-![List](${listImage})
 
 </div>
 
