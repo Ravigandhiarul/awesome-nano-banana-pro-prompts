@@ -1,6 +1,7 @@
 export interface Translation {
   title: string;
   gemini3Promo: string;
+  christmasPromo: string;
   subtitle: string;
   copyright: string;
   viewInGallery: string;
@@ -91,6 +92,7 @@ export interface Translation {
 const en: Translation = {
   title: 'Awesome Nano Banana Pro Prompts',
   gemini3Promo: 'If you\'re interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 We\'ve created a Nano Banana Pro Christmas Card Prompts collection, click [here 🔗]({{link}}) to try it out 🎁',
   subtitle: "A curated collection of creative prompts for Google's Nano Banana Pro",
   copyright: "**Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.",
   viewInGallery: 'View in Web Gallery',
@@ -176,6 +178,7 @@ const en: Translation = {
 const zh: Translation = {
   title: 'Nano Banana Pro 提示词大全',
   gemini3Promo: '如果您对 Gemini 3 提示词感兴趣，欢迎查看我们的另一个仓库，包含 50+ 精选提示词：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 我们制作了 Nano Banana Pro 圣诞卡片提示词特辑，您可以点击[该链接 🔗]({{link}})尝试 🎁',
   subtitle: "Google Nano Banana Pro 创意提示词精选集合",
   copyright: "**版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)，我们将立即移除。",
   viewInGallery: '在网页图库中查看',
@@ -262,6 +265,7 @@ const zhTW: Translation = {
   ...zh,
   title: 'Nano Banana Pro 提示詞大全',
   gemini3Promo: '如果您對 Gemini 3 提示詞感興趣，歡迎查看我們的另一個倉庫，包含 50+ 精選提示詞：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 我們製作了 Nano Banana Pro 聖誕卡片提示詞特輯，您可以點擊[該連結 🔗]({{link}})嘗試 🎁',
   subtitle: "Google Nano Banana Pro 創意提示詞精選集合",
   copyright: "**版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)，我們將立即移除。",
   viewInGallery: '在網頁圖庫中查看',
@@ -348,6 +352,7 @@ const ja: Translation = {
   ...en,
   title: 'Nano Banana Pro プロンプト集',
   gemini3Promo: 'Gemini 3 プロンプトに興味がある場合は、50以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Nano Banana Pro クリスマスカードプロンプト集を作成しました。[こちら 🔗]({{link}})からお試しください 🎁',
   subtitle: "Google Nano Banana Pro のクリエイティブなプロンプトコレクション",
   copyright: "**著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)してください。速やかに削除いたします。",
   viewInGallery: 'Web ギャラリーで見る',
@@ -434,6 +439,7 @@ const ko: Translation = {
   ...en,
   title: 'Nano Banana Pro 프롬프트 모음',
   gemini3Promo: 'Gemini 3 프롬프트에 관심이 있으시다면, 50개 이상의 엄선된 프롬프트가 포함된 다른 저장소를 확인해보세요：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Nano Banana Pro 크리스마스 카드 프롬프트 컬렉션을 만들었습니다. [여기 🔗]({{link}})에서 확인해보세요 🎁',
   subtitle: "Google Nano Banana Pro를 위한 창의적인 프롬프트 컬렉션",
   copyright: "**저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml). 즉시 삭제하겠습니다.",
   viewInGallery: '웹 갤러리에서 보기',
@@ -520,6 +526,7 @@ const de: Translation = {
   ...en,
   title: 'Tolle Nano Banana Pro Prompts',
   gemini3Promo: 'Wenn Sie an Gemini 3 Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit 50+ kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Wir haben eine Nano Banana Pro Weihnachtskarten-Prompt-Sammlung erstellt. Klicken Sie [hier 🔗]({{link}}), um es auszuprobieren 🎁',
   subtitle: "Eine kuratierte Sammlung kreativer Prompts für Google's Nano Banana Pro",
   copyright: "**Urheberrechtshinweis**: Alle Prompts werden zu Bildungszwecken aus der Community gesammelt. Wenn Sie glauben, dass Inhalte Ihre Rechte verletzen, öffnen Sie bitte ein [Issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) und wir werden es umgehend entfernen.",
   viewInGallery: 'In Web-Galerie ansehen',
@@ -606,6 +613,7 @@ const fr: Translation = {
   ...en,
   title: 'Prompts Nano Banana Pro Géniaux',
   gemini3Promo: 'Si vous êtes intéressé par les prompts Gemini 3, n\'hésitez pas à consulter notre autre dépôt avec plus de 50 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Nous avons créé une collection de prompts de cartes de Noël Nano Banana Pro. Cliquez [ici 🔗]({{link}}) pour l\'essayer 🎁',
   subtitle: "Une collection de prompts créatifs pour Nano Banana Pro de Google",
   copyright: "**Avis de droit d'auteur**: Tous les prompts sont collectés auprès de la communauté à des fins éducatives. Si vous pensez qu'un contenu enfreint vos droits, veuillez [ouvrir un problème](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) et nous le supprimerons rapidement.",
   viewInGallery: 'Voir dans la galerie Web',
@@ -692,6 +700,7 @@ const es: Translation = {
   ...en,
   title: 'Prompts Increíbles de Nano Banana Pro',
   gemini3Promo: 'Si estás interesado en los prompts de Gemini 3, no dudes en consultar nuestro otro repositorio con más de 50 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Hemos creado una colección de prompts de tarjetas de Navidad de Nano Banana Pro. Haz clic [aquí 🔗]({{link}}) para probarlo 🎁',
   subtitle: "Una colección curada de prompts creativos para Nano Banana Pro de Google",
   copyright: "**Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) y lo eliminaremos de inmediato.",
   viewInGallery: 'Ver en la galería web',
@@ -778,6 +787,7 @@ const it: Translation = {
   ...en,
   title: 'Fantastici Prompt Nano Banana Pro',
   gemini3Promo: 'Se sei interessato ai prompt di Gemini 3, sentiti libero di controllare il nostro altro repository con più di 50 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Abbiamo creato una raccolta di prompt per biglietti di Natale Nano Banana Pro. Clicca [qui 🔗]({{link}}) per provarla 🎁',
   subtitle: "Una raccolta curata di prompt creativi per Nano Banana Pro di Google",
   copyright: "**Avviso sul copyright**: Tutti i prompt sono raccolti dalla comunità per scopi educativi. Se ritieni che un contenuto violi i tuoi diritti, [apri una segnalazione](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) e lo rimuoveremo prontamente.",
   viewInGallery: 'Vedi nella galleria web',
@@ -864,6 +874,7 @@ const pt: Translation = {
   ...en,
   title: 'Prompts Incríveis do Nano Banana Pro',
   gemini3Promo: 'Se você está interessado em prompts do Gemini 3, sinta-se à vontade para conferir nosso outro repositório com mais de 50 prompts selecionados: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Criamos uma coleção de prompts de cartões de Natal do Nano Banana Pro. Clique [aqui 🔗]({{link}}) para experimentar 🎁',
   subtitle: "Uma coleção curada de prompts criativos para o Nano Banana Pro do Google",
   copyright: "**Aviso de Direitos Autorais**: Todos os prompts são coletados da comunidade para fins educacionais. Se você acredita que algum conteúdo infringe seus direitos, por favor [abra uma issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) e nós o removeremos prontamente.",
   viewInGallery: 'Ver na galeria web',
@@ -950,6 +961,7 @@ const tr: Translation = {
   ...en,
   title: 'Harika Nano Banana Pro İstemleri',
   gemini3Promo: 'Gemini 3 istemleriyle ilgileniyorsanız, 50+ seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Nano Banana Pro Noel Kartı İstemleri koleksiyonu oluşturduk. Denemek için [buraya 🔗]({{link}}) tıklayın 🎁',
   subtitle: "Google'ın Nano Banana Pro'su için yaratıcı istemler koleksiyonu",
   copyright: "**Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) ve derhal kaldıralım.",
   viewInGallery: 'Web galerisinde görüntüle',
@@ -1036,6 +1048,7 @@ const vi: Translation = {
   ...en,
   title: 'Tuyển tập Nano Banana Pro Prompts',
   gemini3Promo: 'Nếu bạn quan tâm đến các câu lệnh Gemini 3, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 50 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 Chúng tôi đã tạo bộ sưu tập câu lệnh thiệp Giáng sinh Nano Banana Pro. Nhấp [vào đây 🔗]({{link}}) để thử 🎁',
   subtitle: "Bộ sưu tập các câu lệnh sáng tạo cho Google Nano Banana Pro",
   copyright: "**Thông báo bản quyền**: Tất cả các câu lệnh được thu thập từ cộng đồng cho mục đích giáo dục. Nếu bạn tin rằng bất kỳ nội dung nào vi phạm quyền của bạn, vui lòng [mở một issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) và chúng tôi sẽ xóa nó ngay lập tức.",
   viewInGallery: 'Xem trong Thư viện Web',
@@ -1122,6 +1135,7 @@ const th: Translation = {
   ...en,
   title: 'สุดยอด Nano Banana Pro Prompts',
   gemini3Promo: 'หากคุณสนใจคำสั่ง Gemini 3 โปรดดูที่เก็บอื่นของเราที่มีคำสั่งที่คัดเลือกมากกว่า 50 รายการ: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 เราได้สร้างคอลเลกชันคำสั่งการ์ดคริสต์มาส Nano Banana Pro คลิก[ที่นี่ 🔗]({{link}})เพื่อลองใช้งาน 🎁',
   subtitle: "คอลเลกชันคำสั่งสร้างสรรค์สำหรับ Google Nano Banana Pro",
   copyright: "**ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) และเราจะลบออกทันที",
   viewInGallery: 'ดูในแกลเลอรีเว็บ',
@@ -1208,6 +1222,7 @@ const hi: Translation = {
   ...en,
   title: 'शानदार Nano Banana Pro प्रॉम्पट्स',
   gemini3Promo: 'यदि आप Gemini 3 प्रॉम्पट्स में रुचि रखते हैं, तो कृपया 50+ चयनित प्रॉम्पट्स के साथ हमारे अन्य रिपॉजिटरी को देखें: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  christmasPromo: '🎄 हमने Nano Banana Pro क्रिसमस कार्ड प्रॉम्पट्स संग्रह बनाया है। इसे आज़माने के लिए [यहाँ 🔗]({{link}}) क्लिक करें 🎁',
   subtitle: "Google Nano Banana Pro के लिए रचनात्मक प्रॉम्पट्स का संग्रह",
   copyright: "**कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) और हम इसे तुरंत हटा देंगे।",
   viewInGallery: 'वेब गैलरी में देखें',
