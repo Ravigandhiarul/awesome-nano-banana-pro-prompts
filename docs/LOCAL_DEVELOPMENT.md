@@ -54,7 +54,7 @@ If you want to test the Issue-to-CMS sync script locally:
 ```env
 # Optional - only for testing sync script
 GITHUB_TOKEN=ghp_your_personal_access_token
-GITHUB_REPOSITORY=YouMind-OpenLab/awesome-nano-banana-pro-prompts
+GITHUB_REPOSITORY=Ravigandhiarul/centilio-nanobanana-prompts
 ISSUE_NUMBER=123
 ISSUE_BODY="### Prompt Title
 My Awesome Prompt

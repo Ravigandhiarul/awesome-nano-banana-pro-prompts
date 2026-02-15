@@ -8,13 +8,13 @@ Nano Banana Pro is Google's latest multimodal AI model capable of generating hig
 
 ### What is this repository?
 
-This is a curated collection of creative prompts for Nano Banana Pro, automatically synced with our CMS and featuring a beautiful web gallery at [youmind.com/nano-banana-pro-prompts](https://youmind.com/nano-banana-pro-prompts).
+This is a curated collection of creative prompts for Nano Banana Pro, automatically synced with our CMS and featuring a beautiful web gallery at [centilio.com/nano-banana-pro-prompts](https://centilio.com/nano-banana-pro-prompts).
 
 ## Contributing
 
 ### How do I submit a prompt?
 
-Use our [GitHub Issue template](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml) to submit your prompt. Fill in all required fields and wait for team review.
+Use our [GitHub Issue template](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues/new?template=submit-prompt.yml) to submit your prompt. Fill in all required fields and wait for team review.
 
 ### Can I submit via Pull Request?
 
@@ -68,14 +68,14 @@ Common reasons for rejection:
 
 ### I found a bug. How do I report it?
 
-Use our [Bug Report template](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml).
+Use our [Bug Report template](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues/new?template=bug-report.yml).
 
 ### How do I contact the team?
 
-- 📧 Email: [contact@youmind.ai](mailto:contact@youmind.ai)
-- 💬 [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/discussions)
-- 🐛 [GitHub Issues](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues)
+- 📧 Email: [team@centilio.com](mailto:team@centilio.com)
+- 💬 [GitHub Discussions](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/discussions)
+- 🐛 [GitHub Issues](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues)
 
 ---
 
-Don't see your question? Ask in [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/discussions)!
+Don't see your question? Ask in [GitHub Discussions](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/discussions)!

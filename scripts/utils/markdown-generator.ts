@@ -116,9 +116,9 @@ function generateHeader(locale: string): string {
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/Ravigandhiarul/centilio-nanobanana-prompts?style=social)](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 ${t('subtitle', locale)}
@@ -171,11 +171,11 @@ function generateGalleryCTA(categories: FilterCategory[], locale: string): strin
 
 </div>
 
-**[${t('browseGallery', locale)}](https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)**
+**[${t('browseGallery', locale)}](https://centilio.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)**
 
 ${t('galleryFeatures', locale)}
 
-| Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
+| Feature | ${t('githubReadme', locale)} | ${t('centilioGallery', locale)} |
 |---------|--------------|---------------------|
 | 🎨 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
 | 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
@@ -211,7 +211,7 @@ function generateCategoriesSection(categories: FilterCategory[], locale: string)
     const children = categories.filter(c => c.parentId === parent.id);
     for (const child of children) {
       // Child category - with link
-      const categoryUrl = `https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts?categories=${child.slug}`;
+      const categoryUrl = `https://centilio.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts?categories=${child.slug}`;
       md += `  - [${child.title}](${categoryUrl})\n`;
     }
   }
@@ -267,7 +267,7 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
   md += `- **${t('published', locale)}:** ${publishedDate}\n`;
   md += `- **${t('languages', locale)}:** ${prompt.language}\n\n`;
 
-  md += `**[${t('tryItNow', locale)}](https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts?id=${prompt.id})**\n\n`;
+  md += `**[${t('tryItNow', locale)}](https://centilio.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts?id=${prompt.id})**\n\n`;
 
   md += `---\n\n`;
 
@@ -303,7 +303,7 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, local
     md += `<div align="center">\n\n`;
     md += `### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}\n\n`;
     md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
-    md += `**[${t('viewAll', locale)}](https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)**\n\n`;
+    md += `**[${t('viewAll', locale)}](https://centilio.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)**\n\n`;
     md += `The gallery features:\n\n`;
     md += `${t('galleryFeature1', locale)}\n\n`;
     md += `${t('galleryFeature2', locale)}\n\n`;
@@ -400,7 +400,7 @@ ${t('welcomeContributions', locale)}
 
 ### 🐛 ${t('githubIssue', locale)}
 
-1. Click [**${t('submitNewPrompt', locale)}**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**${t('submitNewPrompt', locale)}**](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues/new?template=submit-prompt.yml)
 2. ${t('fillForm', locale)}
 3. ${t('submitWait', locale)}
 4. ${t('approvedSync', locale)}
@@ -427,21 +427,21 @@ ${t('licensedUnder', locale)}
 ## 🙏 ${t('acknowledgements', locale)}
 
 - [Payload CMS](https://payloadcms.com/)
-- [youmind.com](https://youmind.com)
+- [Centilio](https://centilio.com)
 
 ---
 
 ## ⭐ ${t('starHistory', locale)}
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ravigandhiarul/centilio-nanobanana-prompts&type=Date)](https://star-history.com/#Ravigandhiarul/centilio-nanobanana-prompts&Date)
 
 ---
 
 <div align="center">
 
-**[🌐 ${t('viewInGallery', locale)}](https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)** •
-**[📝 ${t('submitPrompt', locale)}](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ ${t('starRepo', locale)}](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[🌐 ${t('viewInGallery', locale)}](https://centilio.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)** •
+**[📝 ${t('submitPrompt', locale)}](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ ${t('starRepo', locale)}](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts)**
 
 <sub>🤖 ${t('autoGenerated', locale)} ${timestamp}</sub>
 

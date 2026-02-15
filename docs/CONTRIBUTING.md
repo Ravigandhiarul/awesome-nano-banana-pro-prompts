@@ -16,7 +16,7 @@ Thank you for your interest in contributing! This guide will help you submit you
 
 We only accept contributions via GitHub Issues to ensure quality control and consistent formatting.
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues/new?template=submit-prompt.yml)
 2. Fill in the form with all required information
 3. Submit your issue
 4. Team reviews within 48 hours
@@ -90,9 +90,9 @@ By contributing, you agree to:
 
 ## ❓ Questions?
 
-- 📧 Email: [contact@youmind.ai](mailto:contact@youmind.ai)
-- 💬 Discussions: [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/discussions)
-- 🐛 Issues: [Report a problem](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues)
+- 📧 Email: [team@centilio.com](mailto:team@centilio.com)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/discussions)
+- 🐛 Issues: [Report a problem](https://github.com/Ravigandhiarul/centilio-nanobanana-prompts/issues)
 
 ---
 

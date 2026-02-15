@@ -54,5 +54,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '🎉 Congratulations! Your prompt has been approved and synced to CMS.\n\n✅ It will appear in the README within 4 hours.\n\n🌐 View on: [youmind.com/nano-banana-pro-prompts](https://youmind.com/nano-banana-pro-prompts)\n\nThank you for your contribution! 🙏'
+              body: '🎉 Congratulations! Your prompt has been approved and synced to CMS.\n\n✅ It will appear in the README within 4 hours.\n\n🌐 View on: [centilio.com/nano-banana-pro-prompts](https://centilio.com/nano-banana-pro-prompts)\n\nThank you for your contribution! 🙏'
             })

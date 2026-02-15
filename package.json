@@ -1,7 +1,7 @@
 {
-  "name": "awesome-nano-banana-pro-prompts",
+  "name": "centilio-nanobanana-prompts",
   "version": "1.0.0",
-  "description": "Curated collection of Nano Banana Pro prompts",
+  "description": "Centilio NanoBanana - Curated collection of Nano Banana Pro prompts",
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
